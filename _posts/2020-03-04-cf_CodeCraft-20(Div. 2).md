@@ -1,4 +1,5 @@
 # CodeCraft-20(Div. 2)
+[contest_link](https://codeforces.com/contest/1316)
 
 1. [TOC]
 {:toc}
