@@ -1,4 +1,4 @@
-# cf_edu_82_div2 
+# CodeCraft-20(Div. 2)
 
 1. [TOC]
 {:toc}
