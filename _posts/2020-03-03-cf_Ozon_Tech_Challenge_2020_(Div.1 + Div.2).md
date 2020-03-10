@@ -3,7 +3,6 @@
 1. [TOC]
 {:toc}
 
-[TOC]
 ## A
 ```cpp
 #include<bits/stdc++.h>
