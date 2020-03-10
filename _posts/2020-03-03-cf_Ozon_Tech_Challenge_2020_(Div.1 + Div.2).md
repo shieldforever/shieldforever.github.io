@@ -1,4 +1,5 @@
 # cf_Ozon_Tech_Challenge_2020_(Div.1 + Div.2)
+[contest_link](https://codeforces.com/contest/1305)
 
 1. [TOC]
 {:toc}
