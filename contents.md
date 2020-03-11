@@ -7,9 +7,9 @@
 
 ### Codeforces:
 
-[cf_edu_83_div2222][link5]
+[cf_edu_83_div2][link5]
 
-[link5]: https://shieldforever.github.io/2020/03/10/cf_edu_83_div2.html?_blank
+[link5]: https://shieldforever.github.io/2020/03/10/cf_edu_83_div2.html
 
 [cf_626_div2][link4]
 
