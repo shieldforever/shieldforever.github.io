@@ -6,6 +6,7 @@
 # ACM:
 
 ## 数论
+[数论模板](https://shieldforever.github.io/2020/03/11/%E6%95%B0%E8%AE%BA%E6%95%B4%E7%90%86.html)
 
 ## 比赛训练
 
