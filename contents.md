@@ -5,7 +5,7 @@
 
 # ACM:
 
-## Bug合集
+***[Bug合集](https://shieldforever.github.io/2020/03/12/Bug%E5%90%88%E9%9B%86.html)***
 
 ## 数论
 
