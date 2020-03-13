@@ -5,6 +5,8 @@
 
 # ACM:
 
+## Bug合集
+
 ## 数论
 
 [数论模板](https://shieldforever.github.io/2020/03/11/%E6%95%B0%E8%AE%BA%E6%95%B4%E7%90%86.html)
@@ -12,6 +14,9 @@
 ## 比赛训练
 
 ### Codeforces:
+
+[cf_627_div3][link6]
+[link6]: https://shieldforever.github.io/2020/03/12/cf_627_div3.html
 
 [cf_edu_83_div2][link5]
 
