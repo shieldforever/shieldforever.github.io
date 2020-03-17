@@ -16,9 +16,11 @@
 ### Codeforces:
 
 [cf_628_div2][link7]
+
 [link7]: https://shieldforever.github.io/2020/03/14/cf_628_div2.html
 
 [cf_627_div3][link6]
+
 [link6]: https://shieldforever.github.io/2020/03/12/cf_627_div3.html
 
 [cf_edu_83_div2][link5]
