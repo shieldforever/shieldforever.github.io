@@ -36,23 +36,3 @@ Fangxin Liu, **Haomin Li**, Xiaokang Yang,Li Jiang; "L3E-HD: A Framework Enablin
 
 --------
 Qiao-Ying Ji, Xiu-Jun Gong, **Hao-Min Li**, Pu-Feng Du; "DeepSE: Detecting super-enhancers among typical enhancers using only sequence feature embeddings", Genomics, 113(6): 4052-4060.
-
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
