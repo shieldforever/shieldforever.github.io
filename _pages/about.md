@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received the B.S. degree from the College of Intelligence and Computing, Tianjin University in 2022. I am chasing my Ph.D. degree in CS. in Shanghai Jiao Tong University Advanced Computer Architecture Laboratory (ACA Lab), supervised by Prof. [Li Jiang](https://cs.sjtu.edu.cn/~jiangli//), focusing on the research of in-memory computing, hyperdimensional computing, software-hardware co-design, and neuromorphic computing. 
+I received the B.S. degree from the College of Intelligence and Computing, Tianjin University in 2022. I am chasing my Ph.D. degree in CS. in Shanghai Jiao Tong University Advanced Computer Architecture Laboratory ([ACA Lab](https://acalab.sjtu.edu.cn/CN/)), supervised by Prof. [Li Jiang](https://cs.sjtu.edu.cn/~jiangli//), focusing on the research of in-memory computing, hyperdimensional computing, software-hardware co-design, and neuromorphic computing. 
 
 Research
 -----------
