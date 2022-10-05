@@ -83,7 +83,9 @@ author:
   name             : "Haomin Li"
   avatar           : "lhm.jpg"
   bio              : "PhD student @ ACA Lab, SEIEE, Shanghai Jiao Tong University"
-  location         : "800 DongChuan Road, \n SEIEE Building #03-125, \n Minhang District, Shanghai"
+  location1        : "800 DongChuan Road,"
+  location2        : "SEIEE Building #03-125,"
+  location3        : "Minhang District, Shanghai,"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=635o82sAAAAJ"
