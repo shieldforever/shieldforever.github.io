@@ -38,10 +38,13 @@ Skills
 Publications
 ======
 
-<h3 class="archive__item-title" itemprop="headline"> Fangxin Liu, **Haomin Li**, Xiaokang Yang,Li Jiang; "L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks.", to appear in 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'22)</h3>
+Fangxin Liu, **Haomin Li**, Xiaokang Yang,Li Jiang; "L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks.", to appear in 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'22)
 
 [code](https://github.com/MXHX7199/SIGIR22-EnsembleHDC)
 [link](https://dl.acm.org/doi/abs/10.1145/3477495.3531761)
+
+--------
+Qiao-Ying Ji, Xiu-Jun Gong, **Hao-Min Li**, Pu-Feng Du; "DeepSE: Detecting super-enhancers among typical enhancers using only sequence feature embeddings", Genomics, 113(6): 4052-4060.
 
   <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
