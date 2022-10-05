@@ -5,13 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-CN&user=635o82sAAAAJ">my Google Scholar profile</a>.</u>
 
 --------
 Fangxin Liu, **Haomin Li**, Xiaokang Yang,Li Jiang; "L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks.", to appear in 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'22)
