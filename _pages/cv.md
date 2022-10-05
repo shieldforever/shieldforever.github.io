@@ -17,14 +17,14 @@ Education
 Research experience
 ======
 * 03/2021-07/2021: Guest Intern
-  * , Institute of Computing Technology, Chinese Academy of Sciences
+  * Laboratory for Quantum Computation and Theoretical Computer Science, Institute of Computing Technology, Chinese Academy of Sciences
   * Duties included: Realization of quantum arithmetic logic circuit
   * Supervisor: Professor Jialin Zhang
 
 * 05/2019-12/2019: Research Assistant
-  * Tianjin University
+  * Bioinformatics Team, College of Intelligence and Computing, Tianjin University
   * Research on: Bioinformatics, including GO ontology and enrichment analysis
-  * Supervisor: Professor Hub
+  * Supervisor: Professor [Pufeng Du](https://www.pufengdu.org/homepage/)
   
 Skills
 ======
@@ -41,7 +41,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -55,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
