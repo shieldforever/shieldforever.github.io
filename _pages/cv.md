@@ -11,20 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in computer science and technology, Tianjin University, 2018~2022
+* Ph.D in computer science and technology, Shanghai Jiao Tong University, 2022~2027 (expected)
 
-Work experience
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 03/2021-07/2021: Guest Intern
+  * , Institute of Computing Technology, Chinese Academy of Sciences
+  * Duties included: Realization of quantum arithmetic logic circuit
+  * Supervisor: Professor Jialin Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* 05/2019-12/2019: Research Assistant
+  * Tianjin University
+  * Research on: Bioinformatics, including GO ontology and enrichment analysis
   * Supervisor: Professor Hub
   
 Skills
