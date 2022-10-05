@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 Education
 ======
@@ -25,15 +25,6 @@ Research experience
   * Bioinformatics Team, College of Intelligence and Computing, Tianjin University
   * Research on: Bioinformatics, including GO ontology and enrichment analysis
   * Supervisor: Professor [Pufeng Du](https://www.pufengdu.org/homepage/)
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
