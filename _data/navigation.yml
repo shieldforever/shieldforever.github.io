@@ -12,12 +12,11 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
   
-  
+  - title: "Blog Posts"
+    url: /year-archive/  
+
   - title: "Notes"
     url: "http://epeenofront.com"
-
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
