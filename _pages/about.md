@@ -15,5 +15,5 @@ Research
 Current research interests focuses on:
 
 - In-memory Computing (存内计算)
-- Brian-inspired Neuromorphic Computing (神经模态计算)
+- Brain-inspired Neuromorphic Computing (神经模态计算)
 - Hyperdimensional Computing (超维计算)
