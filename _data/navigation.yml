@@ -17,7 +17,10 @@ main:
 
   - title: "Notes"
     url: "http://epeenofront.com"
-    
+  
+  - title: "Skills"
+    url: "http://skill.epeenofront.com"
+  
   - title: "CV"
     url: /cv/
   
