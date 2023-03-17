@@ -24,7 +24,7 @@ Research experience
 * 05/2019-12/2019: Research Assistant
   * Bioinformatics Team, College of Intelligence and Computing, Tianjin University
   * Research on: Bioinformatics, including GO ontology and enrichment analysis
-  * Supervisor: Professor [Pufeng Du](https://www.pufengdu.org/homepage/)
+  * Supervisor: Professor [Pufeng Du](https://www.pufengdu.org/)
 
 Publications
 ======
