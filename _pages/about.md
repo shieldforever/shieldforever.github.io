@@ -32,5 +32,4 @@ Current research interests focuses on:
 Recent Visits to this Site
 -----------
 
-    <!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cZgyhvWI7eq-9SnsSsJVkhMVioGtOr0YJqI3-Ejt9C8&cl=ffffff&w=a"></script> -->
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sNUIIgL1WU3gnVp7Lq7JpnhV-2YGPzHk9c4NSyeNuIc&cl=ffffff&w=a&t=tt"></script>
