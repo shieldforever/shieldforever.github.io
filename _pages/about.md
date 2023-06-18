@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Haomin Li(李皓民)'s Homepage~"
+title: "Welcome to Fangxin Liu's Homepage~"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
