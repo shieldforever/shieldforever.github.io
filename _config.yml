@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haomin Li's Homepage"
+title                    : "Fangxin Liu's Homepage"
 title_separator          : "-"
 name                     : &name "Haomin Li"
 description              : &description "personal description"
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Haomin Li"
-  avatar           : "222.jpg" # "lhm.jpg"
-  bio              : "PhD student @ ACA Lab, SEIEE, Shanghai Jiao Tong University"
+  name             : "Fangxin Liu"
+  avatar           : "xinhuan.jpg" # "lhm.jpg"
+  bio              : "Assistant Professor @ ACA Lab, SEIEE, Shanghai Jiao Tong University"
   location1        : "800 DongChuan Road,"
   location2        : "SEIEE Building #03-125,"
   location3        : "Minhang District, Shanghai"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=635o82sAAAAJ"
-  email            : "haominli@sjtu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ"
+  email            : "liufangxin@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "shieldforever"
+  github           : "MXHX7199"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   tumblr           :
   # twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : "https://weibo.com/u/1314085552"
   xing             :
   youtube          :
   wikipedia        :
