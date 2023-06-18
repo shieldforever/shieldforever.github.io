@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-<div class="author__avatar"> <img src="../images/cv_image.jpg" class="author__avatar" alt="Haomin Li"></div>
+<!-- <div class="author__avatar"> <img src="../images/cv_image.jpg" class="author__avatar" alt="Haomin Li"></div> -->
 
 Education
 ======
