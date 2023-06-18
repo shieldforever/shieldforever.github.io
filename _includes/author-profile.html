@@ -14,8 +14,9 @@
     {% else %}
       {% if page.title == "CV" %}
         <img src="../images/cv_image.jpg" class="author__avatar" alt="{{ author.name }}">
-        {% else %}
+      {% else %}
     	  <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+      {% endif %}
     {% endif %}
   </div>
 
