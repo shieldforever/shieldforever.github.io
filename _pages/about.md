@@ -13,6 +13,8 @@ I received the B.S. degree from the College of Intelligence and Computing, Tianj
 News
 -----------
 
+`Jul./21/2022` Our paper "HyperNode" has been accepted by ICCAD 2023! San Francisco Again ^_^!
+
 `Feb./24/2022` Our paper "HyperFeel" has been selected by DAC 2023 to present a poster at one of the Work-In-Progress(WIP) sessions.
 
 `Feb./14/2022` Our paper "HyperAtack" has been accepted by DAC 2023!
