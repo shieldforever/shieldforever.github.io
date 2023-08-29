@@ -12,17 +12,14 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
   
-  - title: "Blog Posts"
-    url: /year-archive/  
-
-  - title: "Notes"
-    url: "http://epeenofront.com"
+  - title: "Awards"
+    url: /awards/  
   
-  - title: "Skills"
-    url: "https://skill.epeenofront.com"
+  - title: "Academic Activities"
+    url: /academic-activities/
   
-  - title: "CV"
-    url: /cv/
+  - title: "Selected Projects"
+    url: /selected-projects/
   
     
   # - title: "Guide"

@@ -10,11 +10,7 @@
         {% if s.image contains "://" %}
           "{{ s.image }}"
         {% else %}
-          {% if page.title == "CV" %}
-            "../images/cv_image.jpg"
-          {% else %}
-            "{{ s.image | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
+          "{{ s.image | prepend: "/images/" | prepend: base_path }}"
         {% endif %}
         alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
