@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fangxin Liu's Homepage"
+title                    : "Haomin Li's Homepage"
 title_separator          : "-"
-name                     : &name "Fangxin Liu"
+name                     : &name "Haomin Li"
 description              : &description "personal description"
-url                      : https://MXHX7199.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shieldforever.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MXHX7199/MXHX7199.github.io"
+repository               : "shieldforever/shieldforever.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,16 +80,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fangxin Liu"
-  avatar           : "xinhuan.jpg" # "lhm.jpg"
-  bio              : "Assistant Professor @ ACA Lab, SEIEE, Shanghai Jiao Tong University"
+  name             : "Haomin Li"
+  avatar           : "222.jpg" # "lhm.jpg"
+  bio              : "PhD student @ ACA Lab, SEIEE, Shanghai Jiao Tong University"
   location1        : "800 DongChuan Road,"
   location2        : "SEIEE Building #03-125,"
   location3        : "Minhang District, Shanghai"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-TW&user=dXzsaIsAAAAJ"
-  email            : "liufangxin@sjtu.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=635o82sAAAAJ"
+  email            : "haominli@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MXHX7199"
+  github           : "shieldforever"
   google_plus      :
   keybase          :
   instagram        :
@@ -113,7 +113,7 @@ author:
   tumblr           :
   # twitter          : "replacethistwitterhandle"
   vine             :
-  weibo            : 
+  weibo            :
   xing             :
   youtube          :
   wikipedia        :

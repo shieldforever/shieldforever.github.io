@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Fangxin Liu's Homepage~"
+title: "Welcome to Haomin Li(李皓民)'s Homepage~"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,21 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Fangxin Liu is an Assistant Professor at Shanghai Jiao Tong University (SJTU), specializing in neural network acceleration (e.g., neural network compression and SW/HW co-design.), in-memory computing, and brain-inspired neuromorphic computing.
-
-He obtained his Ph.D. Degree in Computer Science and Technology from Shanghai Jiao Tong University in 2023, under the supervision of Prof. Li Jiang. You can find more information about Prof. Jiang [here](https://cs.sjtu.edu.cn/~jiangli//).
-
-The papers and related resources will be shared on my [Github](https://github.com/MXHX7199) in the near future.
+I received the B.S. degree from the College of Intelligence and Computing, Tianjin University in 2022. I am chasing my Ph.D. degree in CS. in Shanghai Jiao Tong University Advanced Computer Architecture Laboratory ([ACA Lab](https://acalab.sjtu.edu.cn/CN/)), supervised by Prof. [Li Jiang](https://cs.sjtu.edu.cn/~jiangli//), focusing on the research of in-memory computing, hyperdimensional computing, software-hardware co-design, and neuromorphic computing. 
 
 News
 -----------
-`Jul./21/2022` Our paper "HyperAttack" has been accepted by DAC 2023!
 
-`Jul./18/2022` Our paper "ERA-BS" has been accepted by TC 2023!
+`Jul./21/2022` Our paper "HyperNode" has been accepted by ICCAD 2023! San Francisco Again ^_^!
 
-`Feb./24/2022` Our paper "HyperAttack" has been accepted by DAC 2023!
+`Feb./24/2022` Our paper "HyperFeel" has been selected by DAC 2023 to present a poster at one of the Work-In-Progress(WIP) sessions.
 
-`Nov./18/2022` Our paper "SIMSnn" has been accepted by DATE 2023!
+`Feb./14/2022` Our paper "HyperAtack" has been accepted by DAC 2023!
 
 Research
 -----------
@@ -30,9 +25,6 @@ Current research interests focuses on:
 
 - In-memory Computing (存内计算)
 - Brain-inspired Neuromorphic Computing (神经模态计算)
-- Neural Network Acceleration (神经网络加速)
+- Hyperdimensional Computing (超维计算)
 
-Recent Visits to this Site
------------
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=sNUIIgL1WU3gnVp7Lq7JpnhV-2YGPzHk9c4NSyeNuIc&co=4c98ce'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=MzxkVuIyMqaXwpb3hb-CacDwfwMqLcy49w-GqkJsiYs&co=8dc3e9&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>

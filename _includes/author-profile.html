@@ -10,7 +10,11 @@
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
-    	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+      {% if page.title == "CV" %}
+        <img src="../images/cv_image.jpg" class="author__avatar" alt="{{ author.name }}">
+      {% else %}
+    	  <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+      {% endif %}
     {% endif %}
   </div>
 
@@ -115,8 +119,8 @@
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
-      <!-- <li>QQ: 2295609712</li> -->
-      <li>Wechat: lfx920701</li>
+      <li>QQ: 2295609712</li>
+      <li>Wechat: lhm13965168898</li>
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
