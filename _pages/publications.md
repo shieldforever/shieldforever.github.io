@@ -28,6 +28,10 @@ Shiyuan Huang=, Fangxin Liu=, Tian Li, Zongwu Wang, **Haomin Li**, Li Jiang, "TS
 **Haomin Li=**, Fangxin Liu=, Yichi Li, Li Jiang, "HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing." to appear in 42th IEEE/ACM International Conference on Computer-Aided Design ( <font color="#2a9d8f">ICCAD'23 </font> ).
 
 --------
+
+Fangxin Liu=, **Haomin Li=**, Yongbiao Chen, Tao Yang, Li Jiang, "HyperAttack: An Efficient Attack Framework for HyperDimensional Computing." to appear in 60th Design Automation Conference ( <font color="#2a9d8f">DAC'23 </font> ).
+
+--------
 Fangxin Liu, **Haomin Li**, Xiaokang Yang,Li Jiang; "L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks.", to appear in 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (<font color="#2a9d8f">SIGIR'23 </font>'22)
 [code](https://github.com/MXHX7199/SIGIR22-EnsembleHDC)
 [link](https://dl.acm.org/doi/abs/10.1145/3477495.3531761)
