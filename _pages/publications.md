@@ -9,6 +9,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+Fangxin Liu, Ning Yang, **Haomin Li**, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang, "SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding" to appear in 30th International Symposium on High-Performance Computer Architecture ( <font color="#2a9d8f">HPCA'24 </font> ).
+
+--------
+
 Fangxin Liu=, **Haomin Li=**, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, Li Jiang, "PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing." to appear in 29th Asia and South Pacific Design Automation Conference ( <font color="#2a9d8f">ASPDAC'23 </font> ).
 
 --------
