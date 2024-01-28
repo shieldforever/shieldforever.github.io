@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<style>
+<!-- <style>
   .imageWrapper {
   display: list-item;
   justify-content: left;
@@ -37,4 +37,4 @@ author_profile: true
   <img src="../images/academic/dac_23_1.jpg">
   <img src="../images/academic/dac_23_2.jpg">
   <img src="../images/academic/dac_23_3.jpg">
-</p>
+</p> -->
