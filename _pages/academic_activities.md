@@ -1,14 +1,11 @@
 ---
-layout: academic_activities
+layout: archive
 title: "Academic activities"
 permalink: /academic_activities/
 author_profile: true
 ---
 
-ASPDAC-24
-======
-fdsafsdafasd
-<!-- <style>
+<style>
   .imageWrapper {
   display: list-item;
   justify-content: left;
@@ -20,6 +17,9 @@ fdsafsdafasd
   margin-right: 1%;
   }
 </style>
+
+ASPDAC-24
+======
 
 <p>ASPDAC-24</p>
 <p class="imageWrapper">
@@ -39,4 +39,4 @@ fdsafsdafasd
   <img src="../images/academic/dac_23_1.jpg">
   <img src="../images/academic/dac_23_2.jpg">
   <img src="../images/academic/dac_23_3.jpg">
-</p> -->
+</p>
