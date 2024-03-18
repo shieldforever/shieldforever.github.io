@@ -9,6 +9,18 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+Fangxin Liu, Ning Yang, Zhiyan Song, Zongwu Wang, **Haomin Li**, Shiyuan Huang, Zhuoran Song, Songwen Pei and Li Jiang, "INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding" to appear in 61th Design Automation Conference ( <font color="#2a9d8f">DAC'24 </font> ).
+
+--------
+
+Ning Yang, Fangxin Liu, Zongwu Wang, **Haomin Li**, Zhuoran Song, Songwen Pei and Li Jiang, "EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks" to appear in 61th Design Automation Conference ( <font color="#2a9d8f">DAC'24 </font> ).
+
+--------
+
+Yansong Xu, Dongxu Lyu, Zhenyu Li, Yuzhou Chen, Zilong Wang, Gang Wang, Zhican Wang, **Haomin Li** and Guanghui He, "DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing" to appear in 61th Design Automation Conference ( <font color="#2a9d8f">DAC'24 </font> ).
+
+--------
+
 Fangxin Liu, Ning Yang, **Haomin Li**, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang, "SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding" to appear in 30th International Symposium on High-Performance Computer Architecture ( <font color="#2a9d8f">HPCA'24 </font> ).
 
 --------
