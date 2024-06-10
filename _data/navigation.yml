@@ -15,10 +15,10 @@ main:
   - title: "Blog Posts"
     url: /year-archive/  
 
-  - title: "Notes"
-    url: "http://epeenofront.com"
+  # - title: "Notes"
+  #   url: "http://epeenofront.com"
   
-  - title: "Skills"
+  - title: "Notes"
     url: "https://skill.epeenofront.com"
   
   - title: "CV"
