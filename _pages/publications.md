@@ -21,7 +21,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <span style="font-family: Georgia, serif; ">Fangxin Liu, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, <strong>Haomin Li</strong>, Tao Yang, Songwen Pei,Xiaoyao Liang, and Li Jiang
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; "><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; transform:rotate(-20deg); "><strong>
 IEEE Transactions on Parallel and Distributed Systems</strong>
 </span>
 
