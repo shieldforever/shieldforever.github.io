@@ -9,7 +9,13 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-<p style="font-family: Georgia, serif;">Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</p>
+
+
+<!-- <code style="font-family: Georgia, serif; color: #494e52; background-color: #fafafa;">TPDS24</code> -->
+<code style="font-style:italic; color: #494e52; background-color: #fafafa;">TPDS24</code>
+<a href="https://www.computer.org/csdl/journal/td/5555/01/10561563/1XSjAqPAVEs" style="color: #224b8d; font-family: Georgia, serif;">
+  Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration
+</a>
 <br>
 Fangxin Liu, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, **Haomin Li**, Tao Yang, Songwen Pei,Xiaoyao Liang,and Li Jiang
 <br>
