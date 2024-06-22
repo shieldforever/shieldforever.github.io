@@ -12,18 +12,19 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 <!-- <code style="font-family: Georgia, serif; color: #494e52; background-color: #fafafa;">TPDS24</code> -->
-<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.25em;"><b>TPDS 2024</b></code>
+<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.1em;"><b>TPDS 2024</b></code>
 <!-- <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.25em;">TPDS 2024</code> -->
-<a href="https://www.computer.org/csdl/journal/td/5555/01/10561563/1XSjAqPAVEs" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.25em;">
+<a href="https://www.computer.org/csdl/journal/td/5555/01/10561563/1XSjAqPAVEs" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.1em;">
   Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration
 </a>
-<!-- <br> -->
-<p style="font-family: 'Courier New', Courier, monospace;">Fangxin Liu, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, <strong>Haomin Li</strong>, Tao Yang, Songwen Pei,Xiaoyao Liang,and Li Jiang
-</p>
-<!-- <br> -->
-<p style="font-family: 'Courier New', Courier, monospace;">
+<br>
+<span style="font-family: Georgia, serif; ">Fangxin Liu, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, <strong>Haomin Li</strong>, Tao Yang, Songwen Pei,Xiaoyao Liang, and Li Jiang
+</span>
+<br>
+<span style="font-family: 'Courier New', Courier, monospace;">
 IEEE Transactions on Parallel and Distributed Systems
-</p>
+</span>
+
 --------
 
 INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding
