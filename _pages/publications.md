@@ -12,16 +12,16 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 
 <!-- <code style="font-family: Georgia, serif; color: #494e52; background-color: #fafafa;">TPDS24</code> -->
-<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.1em;"><b>TPDS 2024</b></code>
+<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.05em;"><b>TPDS 2024</b></code>
 <!-- <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.25em;">TPDS 2024</code> -->
-<a href="https://www.computer.org/csdl/journal/td/5555/01/10561563/1XSjAqPAVEs" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.1em;"><strong>
+<a href="https://www.computer.org/csdl/journal/td/5555/01/10561563/1XSjAqPAVEs" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</strong>
 </a>
 <br>
-<span style="font-family: Georgia, serif; ">Fangxin Liu, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, <strong>Haomin Li</strong>, Tao Yang, Songwen Pei,Xiaoyao Liang, and Li Jiang
+<span style="font-family: Georgia, serif; ">Fangxin Liu, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, <strong>Haomin Li</strong>, Tao Yang, Songwen Pei, Xiaoyao Liang, and Li Jiang
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; transform:rotate(-20deg); "><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
 IEEE Transactions on Parallel and Distributed Systems</strong>
 </span>
 
