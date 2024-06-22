@@ -9,11 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-
-
-<!-- <code style="font-family: Georgia, serif; color: #494e52; background-color: #fafafa;">TPDS24</code> -->
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.05em;"><b>TPDS 2024</b></code>
-<!-- <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.25em;">TPDS 2024</code> -->
 <a href="https://www.computer.org/csdl/journal/td/5555/01/10561563/1XSjAqPAVEs" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</strong>
 </a>
@@ -27,35 +23,59 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding
+<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.05em;"><b>DAC 2024</b></code>
+<a href="home.epeenofront.com/publications" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+  INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding</strong>
+</a>
 <br>
-Fangxin Liu, Ning Yang, Zhiyan Song, Zongwu Wang, **Haomin Li**, Shiyuan Huang, Zhuoran Song, Songwen Pei and Li Jiang
+<span style="font-family: Georgia, serif; ">Fangxin Liu, Ning Yang, Zhiyan Song, Zongwu Wang, <strong>Haomin Li</strong>, Shiyuan Huang, Zhuoran Song, Songwen Pei, and Li Jiang
+</span>
 <br>
-61th Design Automation Conference ( <b><font color="#2a9d8f">DAC'24 </font></b> )
+<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+61th Design Automation Conference</strong>
+</span>
 
 --------
 
-EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks
+<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.05em;"><b>DAC 2024</b></code>
+<a href="home.epeenofront.com/publications" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+  EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks</strong>
+</a>
 <br>
-Ning Yang, Fangxin Liu, Zongwu Wang, **Haomin Li**, Zhuoran Song, Songwen Pei and Li Jiang
+<span style="font-family: Georgia, serif; ">Ning Yang, Fangxin Liu, Zongwu Wang, <strong>Haomin Li</strong>, Zhuoran Song, Songwen Pei, and Li Jiang
+</span>
 <br>
-61th Design Automation Conference ( <b><font color="#2a9d8f">DAC'24 </font></b> )
+<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+61th Design Automation Conference</strong>
+</span>
 
 --------
 
-DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing
+<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.05em;"><b>DAC 2024</b></code>
+<a href="https://arxiv.org/abs/2403.10913" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+  DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing</strong>
+</a>
 <br>
-Yansong Xu, Dongxu Lyu, Zhenyu Li, Yuzhou Chen, Zilong Wang, Gang Wang, Zhican Wang, **Haomin Li** and Guanghui He
+<span style="font-family: Georgia, serif; ">Yansong Xu, Dongxu Lyu, Zhenyu Li, Yuzhou Chen, Zilong Wang, Gang Wang, Zhican Wang, <strong>Haomin Li</strong> and Guanghui He
+</span>
 <br>
-61th Design Automation Conference ( <b><font color="#2a9d8f">DAC'24 </font></b> )
+<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+61th Design Automation Conference</strong>
+</span>
 
 --------
 
-SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding
+<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.05em;"><b>HPCA 2024</b></code>
+<a href="https://ieeexplore.ieee.org/abstract/document/10476472" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+  SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding</strong>
+</a>
 <br>
-Fangxin Liu, Ning Yang, **Haomin Li**, Zongwu Wang, Zhuoran Song, Songwen Pei, Li Jiang
+<span style="font-family: Georgia, serif; ">Fangxin Liu, Ning Yang, <strong>Haomin Li</strong>, Zongwu Wang, Zhuoran Song, Songwen Pei, and Li Jiang
+</span>
 <br>
-30th International Symposium on High-Performance Computer Architecture ( <b><font color="#2a9d8f">HPCA'24 </font></b> )
+<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+30th International Symposium on High-Performance Computer Architecture</strong>
+</span>
 
 --------
 
@@ -77,7 +97,7 @@ Fangxin Liu=, **Haomin Li=**, Ning Yang, Zongwu Wang, Tao Yang, Li Jiang
 
 TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation
 <br>
-Shiyuan Huang=, Fangxin Liu=, Tian Li, Zongwu Wang, **Haomin Li**, Li Jiang
+Shiyuan Huang=, Fangxin Liu=, Tian Li, Zongwu Wang, <strong>Haomin Li</strong>, Li Jiang
 <br>
 29th Asia and South Pacific Design Automation Conference ( <b><font color="#2a9d8f">ASPDAC'23 </font></b> )
 
@@ -109,7 +129,7 @@ Fangxin Liu=, **Haomin Li=**, Yongbiao Chen, Tao Yang, Li Jiang
 
 L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks
 <br>
-Fangxin Liu, **Haomin Li**, Xiaokang Yang,Li Jiang
+Fangxin Liu, <strong>Haomin Li</strong>, Xiaokang Yang,Li Jiang
 <br>
 45th International ACM SIGIR Conference on Research and Development in Information Retrieval (<b><font color="#2a9d8f">SIGIR'23 </font></b>'22)
 <br>
@@ -120,7 +140,7 @@ Fangxin Liu, **Haomin Li**, Xiaokang Yang,Li Jiang
 
 DeepSE: Detecting super-enhancers among typical enhancers using only sequence feature embeddings
 <br>
-Qiao-Ying Ji, Xiu-Jun Gong, **Haomin Li**, Pu-Feng Du; 
+Qiao-Ying Ji, Xiu-Jun Gong, <strong>Haomin Li</strong>, Pu-Feng Du; 
 <br>
 Genomics, 113(6): 4052-4060.
 
