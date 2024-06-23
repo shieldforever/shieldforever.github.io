@@ -17,7 +17,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <span style="font-family: Georgia, serif; ">Fangxin Liu, Zongwu Wang, Wenbo Zhao, Ning Yang, Yongbiao Chen, Shiyuan Huang, <strong>Haomin Li</strong>, Tao Yang, Songwen Pei, Xiaoyao Liang, and Li Jiang
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 IEEE Transactions on Parallel and Distributed Systems</strong>
 </span>
 
@@ -31,7 +31,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: Georgia, serif; ">Fangxin Liu, Ning Yang, Zhiyan Song, Zongwu Wang, <strong>Haomin Li</strong>, Shiyuan Huang, Zhuoran Song, Songwen Pei, and Li Jiang
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 61th Design Automation Conference</strong>
 </span>
 
@@ -45,7 +45,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: Georgia, serif; ">Ning Yang, Fangxin Liu, Zongwu Wang, <strong>Haomin Li</strong>, Zhuoran Song, Songwen Pei, and Li Jiang
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 61th Design Automation Conference</strong>
 </span>
 
@@ -59,7 +59,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: Georgia, serif; ">Yansong Xu, Dongxu Lyu, Zhenyu Li, Yuzhou Chen, Zilong Wang, Gang Wang, Zhican Wang, <strong>Haomin Li</strong>, and Guanghui He
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 61th Design Automation Conference</strong>
 </span>
 
@@ -73,7 +73,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: Georgia, serif; ">Fangxin Liu, Ning Yang, <strong>Haomin Li</strong>, Zongwu Wang, Zhuoran Song, Songwen Pei, and Li Jiang
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 30th International Symposium on High-Performance Computer Architecture</strong>
 </span>
 
@@ -87,7 +87,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: Georgia, serif; ">Fangxin Liu=, <strong>Haomin Li=</strong>, Ning Yang, Yichi Chen, Zongwu Wang, Tao Yang, and Li Jiang
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 29th Asia and South Pacific Design Automation Conference</strong>
 </span>
 
@@ -101,7 +101,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: Georgia, serif; ">Fangxin Liu=, <strong>Haomin Li=</strong>, Ning Yang, Zongwu Wang, Tao Yang, and Li Jiang
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 29th Asia and South Pacific Design Automation Conference</strong>
 </span>
 
@@ -115,7 +115,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: Georgia, serif; ">Shiyuan Huang=, Fangxin Liu=, Tian Li, Zongwu Wang, <strong>Haomin Li</strong>, and Li Jiang
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 29th Asia and South Pacific Design Automation Conference</strong>
 </span>
 
@@ -129,7 +129,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: Georgia, serif; "><strong>Haomin Li=</strong>, Fangxin Liu=, Yichi Chen, and Li Jiang
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 29th Asia and South Pacific Design Automation Conference</strong>
 </span>
 
@@ -143,7 +143,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: Georgia, serif; "><strong>Haomin Li=</strong>, Fangxin Liu=, Yichi Li, and Li Jiang
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 42th IEEE/ACM International Conference on Computer-Aided Design</strong>
 </span>
 
@@ -157,7 +157,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: Georgia, serif; "><strong>Fangxin Liu=, <strong>Haomin Li=</strong>, Yongbiao Chen, Tao Yang, and Li Jiang
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 60th Design Automation Conference </strong>
 </span>
 
@@ -168,10 +168,10 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
   L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks</strong>
 </a>
 <br>
-<span style="font-family: Georgia, serif; "><strong>Fangxin Liu, <strong>Haomin Li</strong>, Xiaokang Yang, and Li Jiang
+<span style="font-family: Georgia, serif; ">Fangxin Liu, <strong>Haomin Li</strong>, Xiaokang Yang, and Li Jiang
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 45th International ACM SIGIR Conference on Research and Development in Information Retrieval </strong>
 </span>
 
@@ -187,7 +187,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: Georgia, serif; ">Qiao-Ying Ji, Xiu-Jun Gong, <strong>Haomin Li</strong>, and Pu-Feng Du
 </span>
 <br>
-<span style="font-family: 'Courier New', Courier, monospace; font-style:italic; font-size: 1.02em;"><strong>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 Genomics, 113(6): 4052-4060.</strong>
 </span>
 
