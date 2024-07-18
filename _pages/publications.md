@@ -9,6 +9,20 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>MICRO 2024</b></code>
+<a href="/" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+  COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with Adaptive Spike Speculation</strong>
+</a>
+<br>
+<span style="font-family: Georgia, serif; ">Zongwu Wang, Fangxin Liu, Ning Yang, Shiyuan Huang, <strong>Haomin Li</strong>, and Li Jiang
+</span>
+<br>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
+57th IEEE/ACM International Symposium on Microarchitecture</strong>
+</span>
+
+--------
+
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>TPDS 2024</b></code>
 <a href="https://www.computer.org/csdl/journal/td/5555/01/10561563/1XSjAqPAVEs" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</strong>
@@ -24,7 +38,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 --------
 
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>DAC 2024</b></code>
-<a href="home.epeenofront.com/publications" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="/" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding</strong>
 </a>
 <br>
@@ -38,7 +52,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 --------
 
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>DAC 2024</b></code>
-<a href="home.epeenofront.com/publications" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="/" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks</strong>
 </a>
 <br>
