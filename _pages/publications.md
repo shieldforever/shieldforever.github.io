@@ -9,6 +9,20 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
+<a href="https://home.epeenofront.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+  NeuronQuant: Accurate and Efficient Post-Training Quantization for Spiking Neural Networks</strong>
+</a>
+<br>
+<span style="font-family: Georgia, serif; "><strong>Haomin Li=</strong>, Fangxin Liu=, Zewen Sun, Zongwu Wang, Shiyuan Huang, Ning Yang, and Li Jiang
+</span>
+<br>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
+30th Asia and South Pacific Design Automation Conference</strong>
+</span>
+
+--------
+
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>MICRO 2024</b></code>
 <a href="/" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with Adaptive Spike Speculation</strong>

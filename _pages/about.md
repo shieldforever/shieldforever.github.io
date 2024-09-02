@@ -13,7 +13,9 @@ I received the B.S. degree from the College of Intelligence and Computing, Tianj
 News
 -----------
 
-`Sep./08/2023` Our paper "HyperFeel" and "PAAP-HD" has been accepted by ASP-DAC 2024!
+`Sep./02/2024` Our paper "NeuronQuant" has been accepted by ASP-DAC 2025!
+
+`Sep./08/2023` Our paper "HyperFeel", "PAAP-HD", and "TEAS" has been accepted by ASP-DAC 2024!
 
 `Jul./21/2023` Our paper "HyperNode" has been accepted by ICCAD 2023! San Francisco Again ^_^!
 
