@@ -20,8 +20,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </span>
 <br>
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
-30th Asia and South Pacific Design Automation Conference</strong> `CCF-C` `EDA Top Conf.`
-</span>
+30th Asia and South Pacific Design Automation Conference</strong>
+</span> `CCF-C` `EDA Top Conf.`
 
 --------
 
