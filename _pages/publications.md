@@ -22,8 +22,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 30th Asia and South Pacific Design Automation Conference</strong>
 </span>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>CCF-C</b></code>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>EDA Top Conf.</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-C</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>EDA Top Conf.</b></code>
 
 --------
 
@@ -38,8 +38,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 57th IEEE/ACM International Symposium on Microarchitecture</strong>
 </span>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>CCF-A</b></code>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>Computer Architecture Top Conf.</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>Computer Architecture Top Conf.</b></code>
 
 --------
 
@@ -54,8 +54,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 IEEE Transactions on Parallel and Distributed Systems</strong>
 </span>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>CCF-A</b></code>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>Computer Architecture Top Journal</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>Computer Architecture Top Journal</b></code>
 
 --------
 
@@ -70,8 +70,8 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 61th Design Automation Conference</strong>
 </span>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>CCF-A</b></code>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>EDA Top Conf.</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>EDA Top Conf.</b></code>
 
 --------
 
@@ -86,8 +86,8 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 61th Design Automation Conference</strong>
 </span>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>CCF-A</b></code>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>EDA Top Conf.</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>EDA Top Conf.</b></code>
 
 --------
 
@@ -102,8 +102,8 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 61th Design Automation Conference</strong>
 </span>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>CCF-A</b></code>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>EDA Top Conf.</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>EDA Top Conf.</b></code>
 
 --------
 
@@ -118,8 +118,8 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 30th International Symposium on High-Performance Computer Architecture</strong>
 </span>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>CCF-A</b></code>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>Computer Architecture Top Conf.</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>Computer Architecture Top Conf.</b></code>
 
 --------
 
@@ -134,8 +134,8 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 29th Asia and South Pacific Design Automation Conference</strong>
 </span>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>CCF-C</b></code>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>EDA Top Conf.</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-C</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>EDA Top Conf.</b></code>
 
 --------
 
@@ -150,8 +150,8 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 29th Asia and South Pacific Design Automation Conference</strong>
 </span>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>CCF-C</b></code>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>EDA Top Conf.</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-C</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>EDA Top Conf.</b></code>
 
 --------
 
@@ -166,8 +166,8 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 29th Asia and South Pacific Design Automation Conference</strong>
 </span>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>CCF-C</b></code>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>EDA Top Conf.</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-C</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>EDA Top Conf.</b></code>
 
 --------
 
@@ -182,8 +182,8 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 29th Asia and South Pacific Design Automation Conference</strong>
 </span>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>CCF-C</b></code>
-<code style="color: #224b8d; background-color: #fafafa; font-size: 1.02em;"><b>EDA Top Conf.</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-C</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>EDA Top Conf.</b></code>
 
 --------
 
@@ -198,6 +198,8 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 42th IEEE/ACM International Conference on Computer-Aided Design</strong>
 </span>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-B</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>EDA Top Conf.</b></code>
 
 --------
 
@@ -206,12 +208,14 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
   HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</strong>
 </a>
 <br>
-<span style="font-family: Georgia, serif; "><strong>Fangxin Liu=, <strong>Haomin Li=</strong>, Yongbiao Chen, Tao Yang, and Li Jiang
+<span style="font-family: Georgia, serif; ">Fangxin Liu=, <strong>Haomin Li=</strong>, Yongbiao Chen, Tao Yang, and Li Jiang
 </span>
 <br>
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 60th Design Automation Conference </strong>
 </span>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>EDA Top Conf.</b></code>
 
 --------
 
@@ -226,6 +230,8 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
 45th International ACM SIGIR Conference on Research and Development in Information Retrieval </strong>
 </span>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 1.00em;"><b>IR Top Conf.</b></code>
 
 [code](https://github.com/MXHX7199/SIGIR22-EnsembleHDC)
 
