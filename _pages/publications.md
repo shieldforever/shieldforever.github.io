@@ -10,6 +10,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
+<code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>[CCF-C, EDA Top Conf.]</b></code>
 <a href="https://home.epeenofront.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   NeuronQuant: Accurate and Efficient Post-Training Quantization for Spiking Neural Networks</strong>
 </a>
