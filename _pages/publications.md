@@ -192,7 +192,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
   HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing</strong>
 </a>
 <br>
-<span style="font-family: Georgia, serif; "><strong>Haomin Li=</strong>, Fangxin Liu=, Yichi Li, and Li Jiang
+<span style="font-family: Georgia, serif; "><strong>Haomin Li=</strong>, Fangxin Liu=, Yichi Chen, and Li Jiang
 </span>
 <br>
 <span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
