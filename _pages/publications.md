@@ -25,6 +25,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
 
+<a href="https://github.com/shieldforever/NeuronQuant" style="color: #7a2f9d; font-family: 'Courier New', Courier, monospace; font-size: 1.05em;"><strong>
+  Code for NeuronQuant</strong>
+</a>
+
 --------
 
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>MICRO 2024</b></code>
