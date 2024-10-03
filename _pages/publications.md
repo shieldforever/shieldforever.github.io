@@ -26,7 +26,7 @@ ACM Transactions on Design Automation of Electronic Systems</strong>
 
 --------
 
-<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
+<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>ASP-DAC 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
 <a href="https://home.epeenofront.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
