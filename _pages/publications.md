@@ -9,6 +9,23 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>TODAES 2024</b></code>
+<a href="/" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+  STCO: Enhancing Training Efficiency via Structured Sparse
+Tensor Compilation Optimization</strong>
+</a>
+<br>
+<span style="font-family: Georgia, serif; ">Shiyuan Huang, Fangxin Liu, Tian Li, Zongwu Wang, Ning Yang, <strong>Haomin Li</strong>, and Li Jiang
+</span>
+<br>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
+ACM Transactions on Design Automation of Electronic Systems</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-B</b></code>
+<!-- <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code> -->
+
+--------
+
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
