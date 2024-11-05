@@ -9,6 +9,22 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>HPCA 2025</b></code>
+<a href="https://home.epeenofront.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+  CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels</strong>
+</a>
+<br>
+<span style="font-family: Georgia, serif; ">Fangxin Liu, Shiyuan Huang, Ning Yang, Zongwu Wang, <strong>Haomin Li</strong>, and Li Jiang
+</span>
+<br>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
+31th International Symposium on High-Performance Computer Architecture</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+--------
+
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>TODAES 2024</b></code>
 <a href="https://dl.acm.org/doi/abs/10.1145/3701033" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   STCO: Enhancing Training Efficiency via Structured Sparse
