@@ -97,7 +97,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 --------
 
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>DAC 2024</b></code>
-<a href="/" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="https://dl.acm.org/doi/10.1145/3649329.3655896" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding</strong>
 </a>
 <br>
@@ -113,7 +113,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 --------
 
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>DAC 2024</b></code>
-<a href="/" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="https://dl.acm.org/doi/10.1145/3649329.3655981" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks</strong>
 </a>
 <br>
@@ -129,7 +129,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 --------
 
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>DAC 2024</b></code>
-<a href="https://arxiv.org/abs/2403.10913" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="https://dl.acm.org/doi/10.1145/3649329.3657328" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing</strong>
 </a>
 <br>
