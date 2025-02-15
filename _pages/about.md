@@ -13,6 +13,8 @@ I received the B.S. degree from the College of Intelligence and Computing, Tianj
 News
 -----------
 
+`Feb./15/2025` Our paper "ALLMod" has been accepted by DAC 2025!
+
 `Nov./13/2024` Our paper "TAIL" and "HyperDyn" have been accepted by DATE 2025!
 
 `Sep./02/2024` Our paper "NeuronQuant" has been accepted by ASP-DAC 2025!
