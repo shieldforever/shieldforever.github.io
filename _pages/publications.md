@@ -97,7 +97,7 @@ ACM Transactions on Design Automation of Electronic Systems</strong>
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>ASP-DAC 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
-<a href="https://github.com/shieldforever/NeuronQuant" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="https://dl.acm.org/doi/10.1145/3658617.3697716" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   NeuronQuant: Accurate and Efficient Post-Training Quantization for Spiking Neural Networks</strong>
 </a>
 <br>

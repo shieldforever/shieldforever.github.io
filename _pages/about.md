@@ -29,8 +29,9 @@ Research
 -----------
 Current research interests focuses on:
 
-- In-memory Computing (存内计算)
-- Brain-inspired Neuromorphic Computing (神经模态计算)
-- Hyperdimensional Computing (超维计算)
+- In-memory Computing
+- Neuromorphic Computing
+- AI Accelerators
+- Privacy Computing
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=MzxkVuIyMqaXwpb3hb-CacDwfwMqLcy49w-GqkJsiYs&co=8dc3e9&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
