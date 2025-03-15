@@ -32,7 +32,7 @@ Publications
 ======
 
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
-<a href="https://www.epeenofront.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="https://www.lihaomin.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   NeuronQuant: Accurate and Efficient Post-Training Quantization for Spiking Neural Networks</strong>
 </a>
 <br>
