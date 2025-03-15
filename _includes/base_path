@@ -1,5 +1,5 @@
 {% if site.url %}
-  {% assign base_path = "https://www.epeenofront.com/" %}
+  {% assign base_path = "https://www.lihaomin.com/" %}
 {% else %}
   {% assign base_path = site.github.url %}
 {% endif %}
