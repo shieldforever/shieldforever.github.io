@@ -10,7 +10,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>DAC 2025</b></code>
-<a href="https://home.epeenofront.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="https://www.epeenofront.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</strong>
 </a>
 <br>
@@ -28,7 +28,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>DATE 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
-<a href="https://home.epeenofront.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="https://www.epeenofront.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   TAIL: Exploiting Temporal Asynchronous Execution for Efficient Spiking Neural Networks with Inter-Layer Parallelism</strong>
 </a>
 <br>
@@ -46,7 +46,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>DATE 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
-<a href="https://home.epeenofront.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="https://www.epeenofront.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   HyperDyn: Dynamic Dimensional Masking for Efficient Hyper-Dimensional Computing</strong>
 </a>
 <br>
@@ -62,7 +62,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>HPCA 2025</b></code>
-<a href="https://home.epeenofront.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="https://www.epeenofront.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels</strong>
 </a>
 <br>
