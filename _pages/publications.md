@@ -10,7 +10,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>DAC 2025</b></code>
-<a href="https://www.lihaomin.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="https://arxiv.org/abs/2503.15916" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</strong>
 </a>
 <br>
