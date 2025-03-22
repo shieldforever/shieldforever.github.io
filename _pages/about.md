@@ -13,7 +13,9 @@ I received the B.S. degree from the College of Intelligence and Computing, Tianj
 News
 -----------
 
-`Feb./15/2025` Our paper "ALLMod" has been accepted by DAC 2025! ([Arxiv Link](https://arxiv.org/abs/2503.15916))
+`Mar./22/2025` Our paper "FATE" about bio-inspired model acceleration has been accepted by ISCA 2025!
+
+`Feb./15/2025` Our paper "ALLMod" about large number modular reduction has been accepted by DAC 2025! ([Arxiv Link](https://arxiv.org/abs/2503.15916))
 
 `Nov./13/2024` Our paper "TAIL" and "HyperDyn" have been accepted by DATE 2025!
 

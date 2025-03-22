@@ -7,6 +7,23 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-CN&user=635o82sAAAAJ">my Google Scholar profile</a>.</u>
 
+
+--------
+
+<code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>ISCA 2025</b></code>
+<a href="https://lihaomin.com/publications/" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+  FATE: Boosting the Performance of Hyper-Dimensional Computing Intelligence with <u>F</u>lexible Numerical <u>DA</u>ta Typ<u>E</u></strong>
+</a>
+<br>
+<span style="font-family: Georgia, serif; "><strong>Haomin Li=</strong>, Fangxin Liu=, Yichi Chen, Zongwu Wang, Shiyuan Huang, Ning Yang, Dongxu Lyu, and Li Jiang
+</span>
+<br>
+<span style="font-family: 'Courier New', Courier, monospace; font-size: 1.02em;"><strong>
+2025 International Symposium on Computer Architecture</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
 --------
 
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>DAC 2025</b></code>
@@ -28,7 +45,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>DATE 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
-<a href="https://www.lihaomin.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="https://lihaomin.com/publications/" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   TAIL: Exploiting Temporal Asynchronous Execution for Efficient Spiking Neural Networks with Inter-Layer Parallelism</strong>
 </a>
 <br>
@@ -46,7 +63,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>DATE 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
-<a href="https://www.lihaomin.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="https://lihaomin.com/publications/" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   HyperDyn: Dynamic Dimensional Masking for Efficient Hyper-Dimensional Computing</strong>
 </a>
 <br>
@@ -62,7 +79,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="font-style:italic; color: #494e52; background-color: #fafafa; font-size: 1.03em;"><b>HPCA 2025</b></code>
-<a href="https://www.lihaomin.com" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
+<a href="https://lihaomin.com/publications/" style="color: #224b8d; font-family: Georgia, serif; font-size: 1.05em;"><strong>
   CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels</strong>
 </a>
 <br>
