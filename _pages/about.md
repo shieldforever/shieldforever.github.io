@@ -10,24 +10,18 @@ redirect_from:
 
 I received the B.S. degree from the College of Intelligence and Computing, Tianjin University in 2022. I am chasing my Ph.D. degree in CS. in Shanghai Jiao Tong University Advanced Computer Architecture Laboratory ([ACA Lab](https://acalab.sjtu.edu.cn/CN/)), supervised by Prof. [Li Jiang](https://cs.sjtu.edu.cn/~jiangli//), focusing on the research of in-memory computing, hyperdimensional computing, software-hardware co-design, and neuromorphic computing. 
 
-News
+🔥News
 -----------
 
-`Mar./22/2025` Our paper "FATE" about bio-inspired model acceleration has been accepted by ISCA 2025!
+- `Mar./22/2025` Our paper "FATE" about bio-inspired model acceleration has been accepted by ISCA 2025!
+- `Feb./15/2025` Our paper "ALLMod" about large number modular reduction has been accepted by DAC 2025! ([Arxiv Link](https://arxiv.org/abs/2503.15916))
+- `Nov./13/2024` Our paper "TAIL" and "HyperDyn" have been accepted by DATE 2025!
+- `Sep./02/2024` Our paper "NeuronQuant" has been accepted by ASP-DAC 2025!
+- `Sep./08/2023` Our paper "HyperFeel", "PAAP-HD", and "TEAS" have been accepted by ASP-DAC 2024!
+- `Jul./21/2023` Our paper "HyperNode" has been accepted by ICCAD 2023! San Francisco Again ^_^!
+- `Feb./14/2023` Our paper "HyperAtack" has been accepted by DAC 2023!
 
-`Feb./15/2025` Our paper "ALLMod" about large number modular reduction has been accepted by DAC 2025! ([Arxiv Link](https://arxiv.org/abs/2503.15916))
-
-`Nov./13/2024` Our paper "TAIL" and "HyperDyn" have been accepted by DATE 2025!
-
-`Sep./02/2024` Our paper "NeuronQuant" has been accepted by ASP-DAC 2025!
-
-`Sep./08/2023` Our paper "HyperFeel", "PAAP-HD", and "TEAS" have been accepted by ASP-DAC 2024!
-
-`Jul./21/2023` Our paper "HyperNode" has been accepted by ICCAD 2023! San Francisco Again ^_^!
-
-`Feb./14/2023` Our paper "HyperAtack" has been accepted by DAC 2023!
-
-Research
+📝 Research
 -----------
 Current research interests focuses on:
 
