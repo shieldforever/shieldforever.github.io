@@ -12,8 +12,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
   
-  - title: "Blog Posts"
-    url: /year-archive/  
+  # - title: "Blog Posts"
+  #   url: /year-archive/  
 
   # - title: "Notes"
   #   url: "http://epeenofront.com"
@@ -24,8 +24,8 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Academic activities"
-    url: /academic_activities/
+  # - title: "Academic activities"
+  #   url: /academic_activities/
 
   # - title: "Guide"
   #   url: /markdown/
