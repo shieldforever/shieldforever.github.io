@@ -26,7 +26,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2025</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2025</b></code>
 <a href="https://arxiv.org/abs/2503.15916" style="color: #224b8d; "><strong>
   ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</strong>
 </a>
@@ -42,7 +42,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>DATE 2025</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DATE 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
 <a href="https://lihaomin.com/publications/" style="color: #224b8d; "><strong>
@@ -60,7 +60,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>DATE 2025</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DATE 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
 <a href="https://lihaomin.com/publications/" style="color: #224b8d; "><strong>
@@ -78,7 +78,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2025</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2025</b></code>
 <a href="https://lihaomin.com/publications/" style="color: #224b8d; "><strong>
   CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels</strong>
 </a>
@@ -94,7 +94,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>TODAES 2024</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TODAES 2024</b></code>
 <a href="https://dl.acm.org/doi/abs/10.1145/3701033" style="color: #224b8d; "><strong>
   STCO: Enhancing Training Efficiency via Structured Sparse
 Tensor Compilation Optimization</strong>
@@ -111,7 +111,7 @@ ACM Transactions on Design Automation of Electronic Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>ASP-DAC 2025</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASP-DAC 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
 <a href="https://dl.acm.org/doi/10.1145/3658617.3697716" style="color: #224b8d; "><strong>
@@ -133,7 +133,7 @@ ACM Transactions on Design Automation of Electronic Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>MICRO 2024</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>MICRO 2024</b></code>
 <a href="https://ieeexplore.ieee.org/document/10764497" style="color: #224b8d; "><strong>
   COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with Adaptive Spike Speculation</strong>
 </a>
@@ -149,7 +149,7 @@ ACM Transactions on Design Automation of Electronic Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>TPDS 2024</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TPDS 2024</b></code>
 <a href="https://www.computer.org/csdl/journal/td/5555/01/10561563/1XSjAqPAVEs" style="color: #224b8d; "><strong>
   Exploiting Temporal-Unrolled Parallelism for Energy-Efficient SNN Acceleration</strong>
 </a>
@@ -165,7 +165,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2024</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2024</b></code>
 <a href="https://dl.acm.org/doi/10.1145/3649329.3655896" style="color: #224b8d; "><strong>
   INSPIRE: Accelerating Deep Neural Networks via Hardware-friendly Index-Pair Encoding</strong>
 </a>
@@ -181,7 +181,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2024</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2024</b></code>
 <a href="https://dl.acm.org/doi/10.1145/3649329.3655981" style="color: #224b8d; "><strong>
   EOS: An Energy-Oriented Attack Framework for Spiking Neural Networks</strong>
 </a>
@@ -197,7 +197,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2024</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2024</b></code>
 <a href="https://dl.acm.org/doi/10.1145/3649329.3657328" style="color: #224b8d; "><strong>
   DEFA: Efficient Deformable Attention Acceleration via Pruning-Assisted Grid-Sampling and Multi-Scale Parallel Processing</strong>
 </a>
@@ -213,7 +213,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2024</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2024</b></code>
 <a href="https://ieeexplore.ieee.org/abstract/document/10476472" style="color: #224b8d; "><strong>
   SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding</strong>
 </a>
@@ -229,7 +229,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
 <a href="https://ieeexplore.ieee.org/abstract/document/10473823" style="color: #224b8d; "><strong>
   PAAP-HD: PIM-Assisted Approximation for Efficient Hyper-Dimensional Computing</strong>
 </a>
@@ -245,7 +245,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
 <a href="https://ieeexplore.ieee.org/abstract/document/10473984" style="color: #224b8d; "><strong>
   TEAS: Exploiting Spiking Activity for Temporal-wise Adaptive Spiking Neural Networks</strong>
 </a>
@@ -261,7 +261,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
 <a href="https://ieeexplore.ieee.org/abstract/document/10473981" style="color: #224b8d; "><strong>
   TSTC: Enabling Efficient Training via Structured Sparse Tensor Compilation</strong>
 </a>
@@ -277,7 +277,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
 <a href="https://ieeexplore.ieee.org/abstract/document/10473907" style="color: #224b8d; "><strong>
   HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing</strong>
 </a>
@@ -293,7 +293,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>ICCAD 2023</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ICCAD 2023</b></code>
 <a href="https://ieeexplore.ieee.org/abstract/document/10323813" style="color: #224b8d; "><strong>
   HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing</strong>
 </a>
@@ -309,7 +309,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2023</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2023</b></code>
 <a href="https://ieeexplore.ieee.org/abstract/document/10247811" style="color: #224b8d; "><strong>
   HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</strong>
 </a>
@@ -325,7 +325,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>SIGIR 2022</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>SIGIR 2022</b></code>
 <a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531761" style="color: #224b8d; "><strong>
   L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks</strong>
 </a>
@@ -343,7 +343,7 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-<code style="color: #494e52; background-color: #bd666d; font-size: 1.03em;"><b>Genomics 2021</b></code>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>Genomics 2021</b></code>
 <a href="https://www.sciencedirect.com/science/article/pii/S0888754321003700" style="color: #224b8d; "><strong>
   DeepSE: Detecting super-enhancers among typical enhancers using only sequence feature embeddings</strong>
 </a>
