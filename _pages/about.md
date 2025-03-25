@@ -10,6 +10,29 @@ redirect_from:
 
 I received the B.S. degree from the College of Intelligence and Computing, Tianjin University in 2022. I am chasing my Ph.D. degree in CS. in Shanghai Jiao Tong University Advanced Computer Architecture Laboratory ([ACA Lab](https://acalab.sjtu.edu.cn/CN/)), supervised by Prof. [Li Jiang](https://cs.sjtu.edu.cn/~jiangli//), focusing on the research of in-memory computing, hyperdimensional computing, software-hardware co-design, and neuromorphic computing. 
 
+My current research interests focus on **Hardware-software Co-Design for Efficient and Secure AI**.
+Hardware: various computing platform, including (CIM-based) ASIC design, edge FPGAs, and edge/server-end GPUs.
+Software: **Brain-inspired Neuromorphic Computing**, **LLMs/Neural Networks**, **3D Perception and Generation**, and **Secure AI Workloads**.
+Research Objectives: **Efficiency**.
+- **Brain-inspired Neuromorphic Computing**
+  - Efficient Hyper-Dimensional Computing (HDC)
+    - Effective Applications [ICCAD'23, SIGIR'22]
+    - Adaptive and Flexible Compression [ISCA'25]
+    - Dynamic Execution [DATE'25]
+  - Efficient Spiking Neural Networks (SNN)
+    - Quantization [ASP-DAC'25]
+    - Execution Optimization [DATE'25, TPDS'24, ASP-DAC'24]
+  - CiM-based Accelration [MICRO'24, ASP-DAC'24]
+- **LLMs/Neural Network Acceleration**
+  - Acceleration of Neural Networks via Efficient Encoding [HPCA'24, DAC'24]
+  - Sparsity Compilation [HPCA'25, TODAES'24, ASP-DAC'24]
+- **Efficient 3D Perception and Generation**
+  - Deformable Attention Optimization for Efficient 3D Detection [DAC'24]
+  - 3D Reconstruction Acceleration
+- **Efficient design for Secure AI**
+  - Area Effcient Design for LUT-based Large Number Modular Reduction [DAC'25]
+  - Secure Neuromorphic Computing [DAC'24, ASP-DAC'24, DAC'23]
+
 🔥News
 -----------
 
@@ -21,14 +44,14 @@ I received the B.S. degree from the College of Intelligence and Computing, Tianj
 - `Jul./21/2023` Our paper "HyperNode" has been accepted by ICCAD 2023! San Francisco Again ^_^!
 - `Feb./14/2023` Our paper "HyperAtack" has been accepted by DAC 2023!
 
-📝 Research
+<!-- 📝 Research
 -----------
 Current research interests focuses on:
 
 - In-memory Computing
 - Neuromorphic Computing
 - AI Accelerators
-- Privacy Computing
+- Privacy Computing -->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=vmm-JBv9HN9AnFkVOJAR_Yt8LfDTwecx2cZYZP-MXDs&cmn=f8a400'></script>
 <!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=MzxkVuIyMqaXwpb3hb-CacDwfwMqLcy49w-GqkJsiYs&co=8dc3e9&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script> -->
