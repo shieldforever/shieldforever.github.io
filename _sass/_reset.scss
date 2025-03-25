@@ -135,7 +135,7 @@ textarea {
 button,
 input {
   *overflow: visible; /* inner spacing ie IE6/7*/
-  line-height: normal; /* FF3/4 have !important on line-height in UA stylesheet*/
+  line-height: 0.8; /* FF3/4 have !important on line-height in UA stylesheet*/
 }
 
 button::-moz-focus-inner,
