@@ -14,14 +14,10 @@ My current research interests focus on **Hardware-software Co-Design for Efficie
 Hardware: various computing platform, including (CIM-based) ASIC design, edge FPGAs, and edge/server-end GPUs.
 Software: **Brain-inspired Neuromorphic Computing**, **LLMs/Neural Networks**, **3D Perception and Generation**, and **Secure AI Workloads**.
 Research Objectives: **Efficiency**.
-- **Brain-inspired Neuromorphic Computing**
-  - Efficient Hyper-Dimensional Computing (HDC)
-    - Effective Applications [ICCAD'23, SIGIR'22]
-    - Adaptive and Flexible Compression [ISCA'25]
-    - Dynamic Execution [DATE'25]
-  - Efficient Spiking Neural Networks (SNN)
-    - Quantization [ASP-DAC'25]
-    - Execution Optimization [DATE'25, TPDS'24, ASP-DAC'24]
+- **Brain-inspired Neuromorphic Computing**:
+  - Effective Applications [ICCAD'23, SIGIR'22]
+  - Adaptive and Flexible Compression [ISCA'25, ASP-DAC'25]
+  - Execution Optimization [2×DATE'25, TPDS'24, ASP-DAC'24]
   - CiM-based Accelration [MICRO'24, ASP-DAC'24]
 - **LLMs/Neural Network Acceleration**
   - Acceleration of Neural Networks via Efficient Encoding [HPCA'24, DAC'24]
