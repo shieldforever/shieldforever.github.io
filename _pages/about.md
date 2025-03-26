@@ -10,12 +10,9 @@ redirect_from:
 
 I received the B.S. degree from the College of Intelligence and Computing, Tianjin University in 2022. I am chasing my Ph.D. degree in CS. in Shanghai Jiao Tong University Advanced Computer Architecture Laboratory ([ACA Lab](https://acalab.sjtu.edu.cn/CN/)), under the supervision of Prof. [Li Jiang](https://cs.sjtu.edu.cn/~jiangli//) and Assist Prof. [Fangxin Liu](https://mxhx7199.github.io/).
 
-My current research interests focus on **Hardware-software Co-Design for Efficient and Secure AI**.
-
-Hardware: various computing platform, including (CIM-based) ASIC design, edge FPGAs, and edge/server-end GPUs.
-
-Software: **Brain-inspired Neuromorphic Computing**, **LLMs/Neural Networks**, **3D Perception and Generation**, and **Secure AI Workloads**.
-
+My current research interests focus on **Hardware-software Co-Design for Efficient and Secure AI**.<br>
+Hardware: various computing platform, including (CIM-based) ASIC design, edge FPGAs, and edge/server-end GPUs.<br>
+Software: **Brain-inspired Neuromorphic Computing**, **LLMs/Neural Networks**, **3D Perception and Generation**, and **Secure AI Workloads**.<br>
 - **Brain-inspired Neuromorphic Computing**:
   - Effective Applications [ICCAD'23, SIGIR'22]
   - Adaptive and Flexible Compression [ISCA'25, ASP-DAC'25]
