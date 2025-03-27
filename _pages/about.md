@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <style>
-    page {
+    .page {
       padding-right: 0;
     }
     li {
