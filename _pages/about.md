@@ -13,10 +13,10 @@ redirect_from:
       padding-right: 0;
     }
     li {
-        line-height: 1.1;
+        line-height: 1.2;
     }
     ul {
-        line-height: 1.1;
+        line-height: 1.2;
     }
 </style>
 
