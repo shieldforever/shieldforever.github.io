@@ -50,10 +50,10 @@ Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, 3D Percep
 - 2025.03:  🎉🎉 Our paper "FATE" about bio-inspired model acceleration has been accepted by ISCA 2025!
 - 2025.02:  🎉🎉 Our paper "ALLMod" about large number modular reduction has been accepted by DAC 2025! ([Arxiv Link](https://arxiv.org/abs/2503.15916))
 - 2024.11:  🎉🎉 Our paper "TAIL" and "HyperDyn" have been accepted by DATE 2025!
-- 2024.9:  🎉🎉 Our paper "NeuronQuant" has been accepted by ASP-DAC 2025!
-- 2024.8:  🎉🎉 Our paper "HyperFeel", "PAAP-HD", and "TEAS" have been accepted by ASP-DAC 2024!
-- 2023.7:  🎉🎉 Our paper "HyperNode" has been accepted by ICCAD 2023! San Francisco Again ^_^!
-- 2024.2:  🎉🎉 Our paper "HyperAtack" has been accepted by DAC 2023!
+- 2024.09:  🎉🎉 Our paper "NeuronQuant" has been accepted by ASP-DAC 2025!
+- 2024.08:  🎉🎉 Our paper "HyperFeel", "PAAP-HD", and "TEAS" have been accepted by ASP-DAC 2024!
+- 2023.07:  🎉🎉 Our paper "HyperNode" has been accepted by ICCAD 2023! San Francisco Again ^_^!
+- 2024.02:  🎉🎉 Our paper "HyperAtack" has been accepted by DAC 2023!
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=vmm-JBv9HN9AnFkVOJAR_Yt8LfDTwecx2cZYZP-MXDs&cmn=f8a400'></script>
