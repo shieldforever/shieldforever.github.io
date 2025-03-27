@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
     li {
-        line-height: 0.8;
+        line-height: 1.1;
     }
     ul {
         line-height: 1.1;
@@ -44,11 +44,6 @@ Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, 3D Percep
 🔥News
 -----------
 
-<style>
-    li {
-        line-height: 1.0;
-    }
-</style>
 - 2025.03:  🎉🎉 Our paper "FATE" about bio-inspired model acceleration has been accepted by ISCA 2025!
 - 2025.02:  🎉🎉 Our paper "ALLMod" about large number modular reduction has been accepted by DAC 2025! ([Arxiv Link](https://arxiv.org/abs/2503.15916))
 - 2024.11:  🎉🎉 Our paper "TAIL" and "HyperDyn" have been accepted by DATE 2025!
