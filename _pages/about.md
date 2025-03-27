@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 <style>
+    page {
+      padding-right: 0;
+    }
     li {
         line-height: 1.1;
     }
