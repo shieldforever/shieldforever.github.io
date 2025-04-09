@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ISCA 2025</b></code>
-<a href="https://lihaomin.com/publications/" style="color: #224b8d; "><strong>
+<a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
   FATE: Boosting the Performance of Hyper-Dimensional Computing Intelligence with <u>F</u>lexible Numerical <u>DA</u>ta Typ<u>E</u></strong>
 </a>
 <br>
@@ -45,7 +45,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DATE 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
-<a href="https://lihaomin.com/publications/" style="color: #224b8d; "><strong>
+<a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
   TAIL: Exploiting Temporal Asynchronous Execution for Efficient Spiking Neural Networks with Inter-Layer Parallelism</strong>
 </a>
 <br>
@@ -63,7 +63,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DATE 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
-<a href="https://lihaomin.com/publications/" style="color: #224b8d; "><strong>
+<a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
   HyperDyn: Dynamic Dimensional Masking for Efficient Hyper-Dimensional Computing</strong>
 </a>
 <br>
@@ -79,7 +79,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2025</b></code>
-<a href="https://lihaomin.com/publications/" style="color: #224b8d; "><strong>
+<a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
   CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels</strong>
 </a>
 <br>
