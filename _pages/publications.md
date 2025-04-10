@@ -79,7 +79,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2025</b></code>
-<a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
+<a href="https://ieeexplore.ieee.org/document/10946829" style="color: #224b8d; "><strong>
   CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels</strong>
 </a>
 <br>
