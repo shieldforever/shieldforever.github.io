@@ -7,6 +7,22 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-CN&user=635o82sAAAAJ">my Google Scholar profile</a>.</u>
 
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TACO 2025</b></code>
+<a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
+  Attack and Defense: Enhancing Robustness of Binary Hyper-Dimensional Computing</strong>
+</a>
+<br>
+<span ><strong>Haomin Li</strong>, Fangxin Liu, Zongwu Wang, Ning Yang, Shiyuan Huang, Xiaoyao Liang, and Li Jiang
+</span>
+<br>
+<span style=""><strong>
+Transactions on Architecture and Code Optimization</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Journal</b></code>
+
 
 --------
 
