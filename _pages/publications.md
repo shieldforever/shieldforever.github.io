@@ -14,7 +14,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   ASDR: Exploiting <u>A</u>daptive <u>S</u>ampling and <u>D</u>ata <u>R</u>euse for CIM-based Instant Neural Rendering</strong>
 </a>
 <br>
-<span >Fangxin Liu, <strong>Haomin Li</strong>, Bowen Zhu, Zongwu Wang, Zhuoran Song, and Li Jiang
+<span >Fangxin Liu=, <strong>Haomin Li=</strong>, Bowen Zhu, Zongwu Wang, Zhuoran Song, and Li Jiang
 </span>
 <br>
 <span style=""><strong>
