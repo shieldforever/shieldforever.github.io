@@ -39,7 +39,7 @@ Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, 3D Percep
   - Sparsity Compilation [HPCA'25, TODAES'24, ASP-DAC'24]
 - **Efficient 3D Perception and Generation**
   - Deformable Attention Optimization for Efficient 3D Detection [DAC'24]
-  - 3D Reconstruction Acceleration
+  - 3D Reconstruction Acceleration [ASPLOS'25]
 - **Efficient design for Secure AI**
   - Area Effcient Design for LUT-based Large Number Modular Reduction [DAC'25]
   - Secure Neuromorphic Computing [DAC'24, ASP-DAC'24, DAC'23, TACO'25]
@@ -47,6 +47,7 @@ Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, 3D Percep
 🔥News
 -----------
 
+- 2025.04:  🎉🎉 Our paper "ASDR: Exploiting <u>A</u>daptive <u>S</u>ampling and <u>D</u>ata <u>R</u>euse for CIM-based Instant Neural Rendering" about CiM-based NeRF Acceleration has been accepted by ASPLOS 2025! We will present our paper in ASPLOS 2026~
 - 2025.04:  🎉🎉 Our paper "Attack and Defense: Enhancing Robustness of Binary Hyper-Dimensional Computing" about bio-inspired model robustness exploration has been accepted by TACO!
 - 2025.03:  🎉🎉 Our paper "FATE" about bio-inspired model acceleration has been accepted by ISCA 2025!
 - 2025.02:  🎉🎉 Our paper "ALLMod" about large number modular reduction has been accepted by DAC 2025! ([Arxiv Link](https://arxiv.org/abs/2503.15916))

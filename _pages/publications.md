@@ -9,6 +9,22 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASPLOS 2025</b></code>
+<a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
+  ASDR: Exploiting <u>A</u>daptive <u>S</u>ampling and <u>D</u>ata <u>R</u>euse for CIM-based Instant Neural Rendering</strong>
+</a>
+<br>
+<span >Fangxin Liu, <strong>Haomin Li</strong>, Bowen Zhu, Zongwu Wang, Zhuoran Song, and Li Jiang
+</span>
+<br>
+<span style=""><strong>
+30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+--------
+
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TACO 2025</b></code>
 <a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
   Attack and Defense: Enhancing Robustness of Binary Hyper-Dimensional Computing</strong>
