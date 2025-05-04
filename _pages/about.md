@@ -20,7 +20,7 @@ redirect_from:
     }
 </style>
 
-I received the B.S. degree from the College of Intelligence and Computing, Tianjin University in 2022. I am chasing my Ph.D. degree in CS. in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) Intelligent Memory & Processor Architecture & Computing Lab (IMPACT Lab), under the supervision of Prof. [Li Jiang](https://cs.sjtu.edu.cn/~jiangli//) and Assist Prof. [Fangxin Liu](https://mxhx7199.github.io/).
+I received the B.S. degree from the College of Intelligence and Computing, Tianjin University in 2022. I am chasing my Ph.D. degree in CS. in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Intelligent Memory & Processor Architecture & Computing Lab (IMPACT Lab), under the supervision of Prof. [Li Jiang](https://cs.sjtu.edu.cn/~jiangli//) and Assist Prof. [Fangxin Liu](https://mxhx7199.github.io/).
 
 My current research interests focus on Hardware-software Co-Design for Efficient and Secure AI.<br>
 Hardware: (CIM-based) ASIC Design, Edge FPGAs, and Edge/Server GPUs.<br>
@@ -55,7 +55,7 @@ Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, 3D Percep
 - 2024.09:  🎉🎉 Our paper "NeuronQuant" has been accepted by ASP-DAC 2025!
 - 2024.08:  🎉🎉 Our paper "HyperFeel", "PAAP-HD", and "TEAS" have been accepted by ASP-DAC 2024!
 - 2023.07:  🎉🎉 Our paper "HyperNode" has been accepted by ICCAD 2023! San Francisco Again ^_^!
-- 2024.02:  🎉🎉 Our paper "HyperAtack" has been accepted by DAC 2023!
+- 2023.02:  🎉🎉 Our paper "HyperAttack" has been accepted by DAC 2023!
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=vmm-JBv9HN9AnFkVOJAR_Yt8LfDTwecx2cZYZP-MXDs&cmn=f8a400'></script>
