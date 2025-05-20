@@ -26,7 +26,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TACO 2025</b></code>
-<a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
+<a href="https://dl.acm.org/doi/10.1145/3736172" style="color: #224b8d; "><strong>
   Attack and Defense: Enhancing Robustness of Binary Hyper-Dimensional Computing</strong>
 </a>
 <br>
