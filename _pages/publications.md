@@ -77,7 +77,7 @@ Transactions on Architecture and Code Optimization</strong>
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DATE 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
-<a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
+<a href="https://ieeexplore.ieee.org/document/10993093" style="color: #224b8d; "><strong>
   TAIL: Exploiting Temporal Asynchronous Execution for Efficient Spiking Neural Networks with Inter-Layer Parallelism</strong>
 </a>
 <br>
@@ -95,7 +95,7 @@ Transactions on Architecture and Code Optimization</strong>
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DATE 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
-<a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
+<a href="https://ieeexplore.ieee.org/document/10993223" style="color: #224b8d; "><strong>
   HyperDyn: Dynamic Dimensional Masking for Efficient Hyper-Dimensional Computing</strong>
 </a>
 <br>
