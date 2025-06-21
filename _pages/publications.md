@@ -43,7 +43,7 @@ Transactions on Architecture and Code Optimization</strong>
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ISCA 2025</b></code>
-<a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
+<a href="https://dl.acm.org/doi/10.1145/3695053.3731031" style="color: #224b8d; "><strong>
   FATE: Boosting the Performance of Hyper-Dimensional Computing Intelligence with <u>F</u>lexible Numerical <u>DA</u>ta Typ<u>E</u></strong>
 </a>
 <br>
