@@ -9,6 +9,22 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ICCAD 2025</b></code>
+<a href="https://ieeexplore.ieee.org/abstract/document/10323813" style="color: #224b8d; "><strong>
+  QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration by Exploiting Common Patterns in Nonlinear Operations</strong>
+</a>
+<br>
+<span >Zhixiong Zhao<strong>Haomin Li=</strong>, Fangxin Liu=, Yuncheng Lu, Zongwu Wang, Tao Yang, Haibing Guan, and Li Jiang
+</span>
+<br>
+<span style=""><strong>
+44th IEEE/ACM International Conference on Computer-Aided Design</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-B</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
+
+--------
+
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASPLOS 2025</b></code>
 <a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
   ASDR: Exploiting <u>A</u>daptive <u>S</u>ampling and <u>D</u>ata <u>R</u>euse for CIM-based Instant Neural Rendering</strong>
