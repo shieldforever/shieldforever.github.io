@@ -14,7 +14,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
   QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration by Exploiting Common Patterns in Nonlinear Operations</strong>
 </a>
 <br>
-<span >Zhixiong Zhao, <strong>Haomin Li=</strong>, Fangxin Liu=, Yuncheng Lu, Zongwu Wang, Tao Yang, Haibing Guan, and Li Jiang
+<span >Zhixiong Zhao=, <strong>Haomin Li=</strong>, Fangxin Liu, Yuncheng Lu, Zongwu Wang, Tao Yang, Haibing Guan, and Li Jiang
 </span>
 <br>
 <span style=""><strong>
