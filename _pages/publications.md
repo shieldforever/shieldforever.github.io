@@ -26,7 +26,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASPLOS 2025</b></code>
-<a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
+<a href="https://arxiv.org/abs/2508.02304" style="color: #224b8d; "><strong>
   ASDR: Exploiting <u>A</u>daptive <u>S</u>ampling and <u>D</u>ata <u>R</u>euse for CIM-based Instant Neural Rendering</strong>
 </a>
 <br>
