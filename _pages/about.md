@@ -35,7 +35,7 @@ Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, 3D Percep
   - Execution Optimization [2×DATE'25, TPDS'24, ASP-DAC'24]
   - CiM-based Accelration [MICRO'24, ASP-DAC'24]
 - **LLMs/Neural Network Acceleration**
-  - Acceleration of Neural Networks via Efficient Encoding [HPCA'24, DAC'24]
+  - Acceleration of Neural Networks via Efficient Encoding [HPCA'24, DAC'24, ICCAD'25]
   - Sparsity Compilation [HPCA'25, TODAES'24, ASP-DAC'24]
 - **Efficient 3D Perception and Generation**
   - Deformable Attention Optimization for Efficient 3D Detection [DAC'24]
