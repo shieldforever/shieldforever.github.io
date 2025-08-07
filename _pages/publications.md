@@ -26,7 +26,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASPLOS 2025</b></code>
-<a href="https://arxiv.org/abs/2508.02304" style="color: #224b8d; "><strong>
+<a href="https://dl.acm.org/doi/10.1145/3676642.3736117" style="color: #224b8d; "><strong>
   ASDR: Exploiting <u>A</u>daptive <u>S</u>ampling and <u>D</u>ata <u>R</u>euse for CIM-based Instant Neural Rendering</strong>
 </a>
 <br>
@@ -38,6 +38,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </span>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+<a href="https://arxiv.org/abs/2508.02304" style="color: #7a2f9d; font-size: 1.05em;"><strong>
+  Arxiv Link </strong>
+</a>
 
 --------
 
@@ -87,6 +91,10 @@ Transactions on Architecture and Code Optimization</strong>
 </span>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
+
+<a href="https://arxiv.org/abs/2503.15916" style="color: #7a2f9d; font-size: 1.05em;"><strong>
+  Arxiv Link </strong>
+</a>
 
 --------
 
