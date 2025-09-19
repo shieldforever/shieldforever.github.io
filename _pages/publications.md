@@ -79,7 +79,7 @@ Transactions on Architecture and Code Optimization</strong>
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2025</b></code>
-<a href="https://arxiv.org/abs/2503.15916" style="color: #224b8d; "><strong>
+<a href="https://ieeexplore.ieee.org/document/11132815" style="color: #224b8d; "><strong>
   ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</strong>
 </a>
 <br>
