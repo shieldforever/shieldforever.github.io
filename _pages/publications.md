@@ -9,6 +9,28 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DATE 2026</b></code>
+<!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
+<!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
+<a href="https://arxiv.org/abs/2511.03341" style="color: #224b8d; "><strong>
+  LaMoS: Enabling Efficient Large Number Modular Multiplication through SRAM-based CiM Acceleration</strong>
+</a>
+<br>
+<span ><strong>Haomin Li</strong>, Fangxin Liu, Chenyang Guan, Zongwu Wang, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+2026 Design, Automation and Test in Europe Conference</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-B</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
+
+<a href="https://arxiv.org/abs/2511.03341" style="color: #7a2f9d; font-size: 1.05em;"><strong>
+  Arxiv Link </strong>
+</a>
+
+--------
+
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ICCAD 2025</b></code>
 <a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
   QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration by Exploiting Common Patterns in Nonlinear Operations</strong>
