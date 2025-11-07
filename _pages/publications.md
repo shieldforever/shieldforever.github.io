@@ -81,6 +81,21 @@ Transactions on Architecture and Code Optimization</strong>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Journal</b></code>
 
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>APPT 2025</b></code>
+<a href="https://link.springer.com/chapter/10.1007/978-981-95-1021-4_8" style="color: #224b8d; "><strong>
+  Irregular Sparsity-Enabled Search-in-Memory Engine for Accelerating Spiking Neural Networks</strong>
+</a>
+<br>
+<span> Fangxin Liu, Zongwu Wang, Ning Yang, <strong>Haomin Li</strong>, Tao Yang, Haibing Guan, and Li Jiang 
+</span>
+<br>
+<span style=""><strong>
+International Symposium on Advanced Parallel Processing Technologies</strong>
+</span>
+<!-- <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Journal</b></code> -->
 
 --------
 
