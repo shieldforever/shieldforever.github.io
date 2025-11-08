@@ -47,6 +47,7 @@ Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, 3D Percep
 🔥News
 -----------
 
+- 2025.11:  🎉🎉 Our paper "ORANGE: Exploring Ockham’s Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads" about 3DGS Acceleration on NPUs has been accepted by HPCA 2026!
 - 2025.11:  🎉🎉 Our paper "LaMoS: Enabling Efficient Large Number Modular Multiplication through SRAM-based CiM Acceleration" about CIM-based modular multiplication acceleration has been accepted by DATE 2026!
 - 2025.07:  🎉🎉 Our paper "QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration by Exploiting Common Patterns in Nonlinear Operations" about nonlinear operation approximation and acceleration has been accepted by ICCAD 2025!
 - 2025.04:  🎉🎉 Our paper "ASDR: Exploiting <u>A</u>daptive <u>S</u>ampling and <u>D</u>ata <u>R</u>euse for CIM-based Instant Neural Rendering" about CiM-based NeRF Acceleration has been accepted by ASPLOS 2025! We will present our paper in ASPLOS 2026~

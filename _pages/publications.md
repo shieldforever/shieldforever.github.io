@@ -9,6 +9,23 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2026</b></code>
+<a href="https://www.lihaomin.com/" style="color: #224b8d; "><strong>
+  ORANGE: Exploring Ockham’s Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads</strong>
+</a>
+<br>
+<span >
+  <strong>Haomin Li</strong>, Yue Liang, Fangxin Liu, Bowen Zhu, Zongwu Wang, Yu Feng, Liqiang Lu, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+32nd International Symposium on High-Performance Computer Architecture</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+--------
+
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DATE 2026</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
