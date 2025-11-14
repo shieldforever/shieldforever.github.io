@@ -49,7 +49,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ICCAD 2025</b></code>
-<a href="https://www.lihaomin.com/publications/" style="color: #224b8d; "><strong>
+<a href="https://arxiv.org/abs/2511.06767" style="color: #224b8d; "><strong>
   QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration by Exploiting Common Patterns in Nonlinear Operations</strong>
 </a>
 <br>
@@ -61,6 +61,10 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </span>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-B</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
+
+<a href="https://arxiv.org/abs/2511.06767" style="color: #7a2f9d; font-size: 1.05em;"><strong>
+  Arxiv Link </strong>
+</a>
 
 --------
 
