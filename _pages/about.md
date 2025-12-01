@@ -8,17 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<!-- <style>
-    .page {
-      padding-right: 0;
-    }
+<style>
     li {
         line-height: 1.2;
     }
     ul {
         line-height: 1.2;
     }
-</style> -->
+</style>
 
 I received the B.S. degree from the College of Intelligence and Computing, Tianjin University in 2022. I am chasing my Ph.D. degree in CS. in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Intelligent Memory & Processor Architecture & Computing Lab (IMPACT Lab), under the supervision of Prof. [Li Jiang](https://cs.sjtu.edu.cn/~jiangli//) and Assist Prof. [Fangxin Liu](https://mxhx7199.github.io/).
 
@@ -67,12 +64,13 @@ Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, Spatial I
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2026</div><img src='images/orange-hpca26.svg' alt="ORANGE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ORANGE: Exploring Ockham’s Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads](tbd) \\
+<a href="https://www.lihaomin.com/" style="color: #224b8d; "><strong>
+  ORANGE: Exploring Ockham’s Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads</strong>
+</a>
+<br>
 **Haomin Li**, Yue Liang, Fangxin Liu, Bowen Zhu, Zongwu Wang, Yu Feng, Liqiang Lu, Li Jiang, and Haibing Guan
 
-[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
-
-- **Description**: ORANGE is a novel approach that enables general purpose DNN-oriented Neural Processing Units (NPUs) to execute 3DGS without requiring specialized acclerators. We introduce a GEMM-friendly blending process, which reformulates the conventional 3DGS blending operation to fully utilize the matrix multiplication units prevalent in NPUs during rendering. Additionally, to mitigate workload imbalances caused by variable execution latencies across tiles, we develop a sampling-based latency prediction method paired with a tile batching strategy to minimize idle computing resources. Our approach offers a cost-effective and versatile solution, adhering to the principle of Ockham’s Razor by maximizing efficiency without specialized hardware.
+- **Description**: ORANGE is a novel approach that enables general purpose DNN-oriented Neural Processing Units (NPUs) to execute 3DGS without requiring specialized acclerators. Our approach offers a cost-effective and versatile solution, adhering to the principle of Ockham’s Razor by maximizing efficiency without specialized hardware.
 </div>
 </div>
 
