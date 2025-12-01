@@ -23,8 +23,8 @@ redirect_from:
 I received the B.S. degree from the College of Intelligence and Computing, Tianjin University in 2022. I am chasing my Ph.D. degree in CS. in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Intelligent Memory & Processor Architecture & Computing Lab (IMPACT Lab), under the supervision of Prof. [Li Jiang](https://cs.sjtu.edu.cn/~jiangli//) and Assist Prof. [Fangxin Liu](https://mxhx7199.github.io/).
 
 My current research interests focus on Hardware-software Co-Design for Efficient and Secure AI.<br>
-Hardware: (CIM-based) ASIC Design, Edge FPGAs, and Edge/Server GPUs.<br>
-Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, 3D Perception and Generation, and Secure AI Workloads.
+Hardware: Domain Specific Architectures (DSAs), In-Memory Computing (CIM), Edge FPGAs, and Edge/Server GPUs.<br>
+Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, Spatial Intelligence, and Secure AI Workloads.
 
 📝 Research Focus
 -----------
@@ -37,7 +37,7 @@ Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, 3D Percep
 - **LLMs/Neural Network Acceleration**
   - Acceleration of Neural Networks via Efficient Encoding [HPCA'24, DAC'24, ICCAD'25]
   - Sparsity Compilation [HPCA'25, TODAES'24, ASP-DAC'24]
-- **Efficient 3D Perception and Generation**
+- **Spatial Intelligence (Efficient 3D Perception and Reconstruction)**
   - Deformable Attention Optimization for Efficient 3D Detection [DAC'24]
   - 3D Reconstruction Acceleration [HPCA'26, ASPLOS'25]
 - **Efficient design for Secure AI**
