@@ -24,9 +24,9 @@ I received the B.S. degree from the College of Intelligence and Computing, Tianj
 
 My current research interests focus on Hardware-software Co-Design for Efficient and Secure AI.<br>
 Hardware: Domain Specific Architectures (DSAs), In-Memory Computing (CIM), Edge FPGAs, and Edge/Server GPUs.<br>
-Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, Spatial Intelligence, and Secure AI Workloads.
+Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, Spatial Intelligence (Efficient 3D Perception and Reconstruction), and Secure AI Workloads.
 
-📝 Research Focus
+<!-- 📝 Research Focus
 -----------
 
 - **Brain-inspired Neuromorphic Computing**:
@@ -42,7 +42,7 @@ Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, Spatial I
   - 3D Reconstruction Acceleration [HPCA'26, ASPLOS'25]
 - **Efficient design for Secure AI**
   - Area Effcient Design for LUT-based Large Number Modular Reduction [DATE'26, DAC'25]
-  - Secure Neuromorphic Computing [DAC'24, ASP-DAC'24, DAC'23, TACO'25]
+  - Secure Neuromorphic Computing [DAC'24, ASP-DAC'24, DAC'23, TACO'25] -->
 
 🔥News
 -----------
@@ -59,6 +59,25 @@ Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, Spatial I
 - 2024.08:  🎉🎉 Our paper "HyperFeel", "PAAP-HD", and "TEAS" have been accepted by ASP-DAC 2024!
 - 2023.07:  🎉🎉 Our paper "HyperNode" has been accepted by ICCAD 2023! San Francisco Again ^_^!
 - 2023.02:  🎉🎉 Our paper "HyperAttack" has been accepted by DAC 2023!
+
+
+# 📝 Selected Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2026</div><img src='images/orange-hpca26.svg' alt="ORANGE" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ORANGE: Exploring Ockham’s Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads](tbd) \\
+**Haomin Li**, Yue Liang, Fangxin Liu, Bowen Zhu, Zongwu Wang, Yu Feng, Liqiang Lu, Li Jiang, and Haibing Guan
+
+[**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
+
+- FastSpeech is the first fully parallel end-to-end speech synthesis model.
+- **Description**: ORANGE is a novel approach that enables general purpose DNN-oriented Neural Processing Units (NPUs) to execute 3DGS without requiring specialized acclerators. We introduce a GEMM-friendly blending process, which reformulates the conventional 3DGS blending operation to fully utilize the matrix multiplication units prevalent in NPUs during rendering. Additionally, to mitigate workload imbalances caused by variable execution latencies across tiles, we develop a sampling-based latency prediction method paired with a tile batching strategy to minimize idle computing resources. Our approach offers a cost-effective and versatile solution, adhering to the principle of Ockham’s Razor by maximizing efficiency without specialized hardware.
+</div>
+</div>
+
+
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=vmm-JBv9HN9AnFkVOJAR_Yt8LfDTwecx2cZYZP-MXDs&cmn=f8a400'></script>
