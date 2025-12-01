@@ -1,4 +1,4 @@
-📝 Research Focus
+🔬 Research Focus
 -----------
 
 - **Brain-inspired Neuromorphic Computing**:

@@ -6,7 +6,7 @@ main:
     url: \#news
 
   - title: "Selected Publications"
-    url: \#Selected%20Publications
+    url: /#-selected-publications
 
   - title: "Publications"
     url: /publications/
