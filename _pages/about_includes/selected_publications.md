@@ -1,7 +1,7 @@
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2026</div><img src='images/orange-hpca26.svg' alt="ORANGE" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>HPCA 2026</strong></div><img src='images/orange-hpca26.svg' alt="ORANGE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://www.lihaomin.com/" style="color: #224b8d; "><strong>
@@ -16,7 +16,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2025</div><img src='images/asdr-asplos25.svg' alt="ASDR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>ASPLOS 2025</strong></div><img src='images/asdr-asplos25.svg' alt="ASDR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://dl.acm.org/doi/10.1145/3676642.3736117" style="color: #224b8d; "><strong>
