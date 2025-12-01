@@ -19,59 +19,11 @@ redirect_from:
 
 {% include_relative about_includes/intro.md %}
 
+{% include_relative about_includes/research_focus.md %}
 
-📝 Research Focus
------------
+{% include_relative about_includes/news.md %}
 
-- **Brain-inspired Neuromorphic Computing**:
-  - Effective Applications [ICCAD'23, SIGIR'22]
-  - Adaptive and Flexible Compression [ISCA'25, ASP-DAC'25]
-  - Execution Optimization [2×DATE'25, TPDS'24, ASP-DAC'24]
-  - CiM-based Accelration [APPT'25, MICRO'24, ASP-DAC'24]
-- **LLMs/Neural Network Acceleration**
-  - Acceleration of Neural Networks via Efficient Encoding [HPCA'24, DAC'24, ICCAD'25]
-  - Sparsity Compilation [HPCA'25, TODAES'24, ASP-DAC'24]
-- **Spatial Intelligence (Efficient 3D Perception and Reconstruction)**
-  - Deformable Attention Optimization for Efficient 3D Detection [DAC'24]
-  - 3D Reconstruction Acceleration [HPCA'26, ASPLOS'25]
-- **Efficient design for Secure AI**
-  - Area Effcient Design for LUT-based Large Number Modular Reduction [DATE'26, DAC'25]
-  - Secure Neuromorphic Computing [DAC'24, ASP-DAC'24, DAC'23, TACO'25]
-
-🔥News
------------
-
-- 2025.11:  🎉🎉 Our paper "ORANGE: Exploring Ockham’s Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads" about 3DGS Acceleration on NPUs has been accepted by HPCA 2026!
-- 2025.11:  🎉🎉 Our paper "LaMoS: Enabling Efficient Large Number Modular Multiplication through SRAM-based CiM Acceleration" about CIM-based modular multiplication acceleration has been accepted by DATE 2026!
-- 2025.07:  🎉🎉 Our paper "QUARK: Quantization-Enabled Circuit Sharing for Transformer Acceleration by Exploiting Common Patterns in Nonlinear Operations" about nonlinear operation approximation and acceleration has been accepted by ICCAD 2025!
-- 2025.04:  🎉🎉 Our paper "ASDR: Exploiting <u>A</u>daptive <u>S</u>ampling and <u>D</u>ata <u>R</u>euse for CIM-based Instant Neural Rendering" about CiM-based NeRF Acceleration has been accepted by ASPLOS 2025! We will present our paper in ASPLOS 2026~
-- 2025.04:  🎉🎉 Our paper "Attack and Defense: Enhancing Robustness of Binary Hyper-Dimensional Computing" about bio-inspired model robustness exploration has been accepted by TACO!
-- 2025.03:  🎉🎉 Our paper "FATE" about bio-inspired model acceleration has been accepted by ISCA 2025!
-- 2025.02:  🎉🎉 Our paper "ALLMod" about large number modular reduction has been accepted by DAC 2025!
-- 2024.11:  🎉🎉 Our paper "TAIL" and "HyperDyn" have been accepted by DATE 2025!
-- 2024.09:  🎉🎉 Our paper "NeuronQuant" has been accepted by ASP-DAC 2025!
-- 2024.08:  🎉🎉 Our paper "HyperFeel", "PAAP-HD", and "TEAS" have been accepted by ASP-DAC 2024!
-- 2023.07:  🎉🎉 Our paper "HyperNode" has been accepted by ICCAD 2023! San Francisco Again ^_^!
-- 2023.02:  🎉🎉 Our paper "HyperAttack" has been accepted by DAC 2023!
-
-
-# 📝 Selected Publications 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HPCA 2026</div><img src='images/orange-hpca26.svg' alt="ORANGE" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<a href="https://www.lihaomin.com/" style="color: #224b8d; "><strong>
-  ORANGE: Exploring Ockham’s Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads</strong>
-</a>
-<br>
-**Haomin Li**, Yue Liang, Fangxin Liu, Bowen Zhu, Zongwu Wang, Yu Feng, Liqiang Lu, Li Jiang, and Haibing Guan
-
-- **Description**: ORANGE is a novel approach that enables general purpose DNN-oriented Neural Processing Units (NPUs) to execute 3DGS without requiring specialized acclerators. Our approach offers a cost-effective and versatile solution, adhering to the principle of Ockham’s Razor by maximizing efficiency without specialized hardware.
-</div>
-</div>
-
-
+{% include_relative about_includes/selected_publications.md %}
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=vmm-JBv9HN9AnFkVOJAR_Yt8LfDTwecx2cZYZP-MXDs&cmn=f8a400'></script>
