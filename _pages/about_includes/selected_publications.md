@@ -60,3 +60,20 @@ Hyper-Dimensional Computing (HDC) has emerged as a lightweight computational mod
 </div>
 </div>
 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>DAC 2025</strong></div><img src='allmod-dac25.png' alt="ALLMod" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://ieeexplore.ieee.org/document/11132815" style="color: #224b8d; "><strong>
+  ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</strong>
+</a>
+<br>
+Fangxin Liu=, **Haomin Li=**, Zongwu Wang, Bo Zhang, Mingzhe Zhang, Shoumeng Yan, and Li Jiang
+<br>
+**Description**:  
+Modular arithmetic, particularly modular reduction, is widely used in cryptographic applications such as homomorphic encryption (HE) and zero-knowledge proofs (ZKP). High-bit-width operations are crucial for enhancing security; however, they are computationally intensive due to the large number of modular operations required. The lookup-table-based (LUT-based) approach, a “space-for-time” technique, reduces computational load by segmenting the input number into smaller bit groups, pre-computing modular reduction results for each segment, and storing these results in LUTs. While effective, this method incurs significant hardware overhead due to extensive LUT usage. In this paper, we introduce ALLMod, a novel approach that improves the area efficiency of LUT-based largenumber modular reduction by employing hybrid workloads. Inspired by the iterative method, ALLMod splits the bit groups into two distinct workloads, achieving lower area costs without compromising throughput. We first develop a template to facilitate workload splitting and ensure balanced distribution. Then, we conduct design space exploration to evaluate the optimal timing for fusing workload results, enabling us to identify the most efficient design under specific constraints. 
+</div>
+</div>
+
+
