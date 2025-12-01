@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<style>
+<!-- <style>
     .page {
       padding-right: 0;
     }
@@ -18,7 +18,7 @@ redirect_from:
     ul {
         line-height: 1.2;
     }
-</style>
+</style> -->
 
 I received the B.S. degree from the College of Intelligence and Computing, Tianjin University in 2022. I am chasing my Ph.D. degree in CS. in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), Intelligent Memory & Processor Architecture & Computing Lab (IMPACT Lab), under the supervision of Prof. [Li Jiang](https://cs.sjtu.edu.cn/~jiangli//) and Assist Prof. [Fangxin Liu](https://mxhx7199.github.io/).
 
@@ -72,7 +72,6 @@ Software: Brain-Inspired Neuromorphic Computing, LLMs/Neural Networks, Spatial I
 
 [**Project**](https://speechresearch.github.io/fastspeech/) <strong><span class='show_paper_citations' data='4FA6C0AAAAAJ:qjMakFHDy7sC'></span></strong>
 
-- FastSpeech is the first fully parallel end-to-end speech synthesis model.
 - **Description**: ORANGE is a novel approach that enables general purpose DNN-oriented Neural Processing Units (NPUs) to execute 3DGS without requiring specialized acclerators. We introduce a GEMM-friendly blending process, which reformulates the conventional 3DGS blending operation to fully utilize the matrix multiplication units prevalent in NPUs during rendering. Additionally, to mitigate workload imbalances caused by variable execution latencies across tiles, we develop a sampling-based latency prediction method paired with a tile batching strategy to minimize idle computing resources. Our approach offers a cost-effective and versatile solution, adhering to the principle of Ockham’s Razor by maximizing efficiency without specialized hardware.
 </div>
 </div>
