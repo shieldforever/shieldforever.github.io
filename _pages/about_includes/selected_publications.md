@@ -43,3 +43,18 @@ Fangxin Liu=, **Haomin Li=**, Bowen Zhu, Zongwu Wang, Zhuoran Song, and Li Jiang
 **Description**:  FATE is an algorithm/architecture co-designed solution for brain-inspired Hyper-Dimensional Computing (HDC) deployment, which utilizes low-precision data types for less important dimensions, enabling the replacement of multiplication operations with logic calculations. To maximize resource utilization, we design a workload-aware mixed quantization scheme that offers flexible compression based on these differences in dimensional importance. The proposed quantization framework is seamlessly integrated into the existing FPGA implementations.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>TACO 2025 & DAC 2023</strong></div><img src='hyperdefense-taco25.png' alt="HyperAttack and HyperDefense" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a href="https://dl.acm.org/doi/10.1145/3736172" style="color: #224b8d; "><strong>
+  Attack and Defense: Enhancing Robustness of Binary Hyper-Dimensional Computing</strong>
+</a>
+<br>
+**Haomin Li**, Fangxin Liu, Zongwu Wang, Ning Yang, Shiyuan Huang, Xiaoyao Liang, and Li Jiang
+<br>
+**Description**:  HyperAttack is a novel attack framework for HDC, capable of compromising a robust binary HDC model by maliciously flipping a minimal number of bits within its memory system (specifically, the DRAM) that houses the associative memory. HyperAttack optimizes the accuracy degradation by pinpointing the most vulnerable bits in the hyper-dimensional vectors of the HDC model. The proposed HyperAttack framework is grounded in the principles of fuzziness, seamlessly integrating dimensional ranking and feature similarity analysis within hypervectors to precisely identify the bits to be flipped. Furthermore, we have developed a defense mechanism named HyperDefense, designed to bolster the robustness of binary hyper-dimensional computational models against bit-flip attacks. This defense scheme is tailored specifically for HDC models, providing a robust safeguard against potential threats. HyperDefense operates directly on the associative memory of HDC models, strengthening their defenses. By meticulously modifying selected bits, HyperDefense maintains a high level of accuracy close to the original model, even in the face of increased bit flip rates. This defense mechanism leverages redundant dimensions as backups for critical information. Through a thorough analysis of dimension importance, HyperDefense achieves superior robustness by gracefully sacrificing non-critical dimensions, thus ensuring the model’s robustness against potential attacks.
+</div>
+</div>
+
