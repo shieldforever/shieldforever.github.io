@@ -1,5 +1,13 @@
 # main links links
 main:
+
+
+  - title: "News"
+    url: \#news
+
+  - title: "Selected Publications"
+    url: \#Selected%20Publications
+
   - title: "Publications"
     url: /publications/
 
