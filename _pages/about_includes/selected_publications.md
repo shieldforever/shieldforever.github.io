@@ -45,7 +45,8 @@ Fangxin Liu=, **Haomin Li=**, Bowen Zhu, Zongwu Wang, Zhuoran Song, and Li Jiang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>TACO 2025 & DAC 2023</strong></div><img src='hyperdefense-taco25.png' alt="HyperAttack and HyperDefense" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>TACO 2025 & DAC 2023</strong></div><img src='images/hyperdefense-taco25.png' alt="HyperAttack and HyperDefense" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://dl.acm.org/doi/10.1145/3736172" style="color: #224b8d; "><strong>
@@ -62,7 +63,7 @@ Hyper-Dimensional Computing (HDC) has emerged as a lightweight computational mod
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>DAC 2025</strong></div><img src='allmod-dac25.png' alt="ALLMod" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>DAC 2025</strong></div><img src='images/allmod-dac25.png' alt="ALLMod" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://ieeexplore.ieee.org/document/11132815" style="color: #224b8d; "><strong>
