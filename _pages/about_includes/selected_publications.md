@@ -1,7 +1,7 @@
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>HPCA 2026</strong></div><img src='images/orange-hpca26.jpg' alt="ORANGE" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>HPCA 2026</strong></div><img src='images/orange-hpca26.png' alt="ORANGE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://www.lihaomin.com/" style="color: #224b8d; "><strong>
@@ -16,7 +16,7 @@
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>ASPLOS 2025</strong></div><img src='images/asdr-asplos25.jpg' alt="ASDR" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>ASPLOS 2025</strong></div><img src='images/asdr-asplos25.png' alt="ASDR" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://dl.acm.org/doi/10.1145/3676642.3736117" style="color: #224b8d; "><strong>
@@ -31,7 +31,7 @@ Fangxin Liu=, **Haomin Li=**, Bowen Zhu, Zongwu Wang, Zhuoran Song, and Li Jiang
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>ISCA 2025</strong></div><img src='images/fate-isca25.jpg' alt="FATE" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>ISCA 2025</strong></div><img src='images/fate-isca25.png' alt="FATE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://dl.acm.org/doi/10.1145/3695053.3731031" style="color: #224b8d; "><strong>
@@ -46,7 +46,7 @@ Fangxin Liu=, **Haomin Li=**, Bowen Zhu, Zongwu Wang, Zhuoran Song, and Li Jiang
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>TACO 2025 & DAC 2023</strong></div><img src='images/hyperdefense-taco25.jpg' alt="HyperAttack and HyperDefense" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>TACO 2025 & DAC 2023</strong></div><img src='images/hyperdefense-taco25.png' alt="HyperAttack and HyperDefense" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://dl.acm.org/doi/10.1145/3736172" style="color: #224b8d; "><strong>
@@ -63,7 +63,7 @@ Hyper-Dimensional Computing (HDC) has emerged as a lightweight computational mod
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>DAC 2025</strong></div><img src='images/allmod-dac25.jpg' alt="ALLMod" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>DAC 2025</strong></div><img src='images/allmod-dac25.png' alt="ALLMod" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a href="https://ieeexplore.ieee.org/document/11132815" style="color: #224b8d; "><strong>
