@@ -7,6 +7,25 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-CN&user=635o82sAAAAJ">my Google Scholar profile</a>.</u>
 
+
+
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TACO 2025</b></code>
+<a href="https://www.lihaomin.com/" style="color: #224b8d; "><strong>
+  MIX-PC: Enabling Efficient DNN Inference with Mixed Numeric Precision Compilation Optimization</strong>
+</a>
+<br>
+<span >Shiyuan Huang, Fangxin Liu, Zongwu Wang, Ning Yang, <strong>Haomin Li</strong>, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+Transactions on Architecture and Code Optimization</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Journal</b></code>
+
+
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2026</b></code>
