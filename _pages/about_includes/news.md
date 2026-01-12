@@ -1,4 +1,4 @@
-🔥News
+🔥 News
 -----------
 
 - 2025.11:  🎉🎉 Our paper "ORANGE: Exploring Ockham’s Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads" about 3DGS Acceleration on NPUs has been accepted by HPCA 2026!

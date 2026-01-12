@@ -26,6 +26,12 @@ redirect_from:
 {% include_relative about_includes/selected_publications.md %}
 
 
+💻Internships
+-----------
+
+- 2026.01 - now, Intern in Ant Group, Shanghai, China.
+
+
 <br>
 <br>
 <br>
