@@ -29,7 +29,7 @@ redirect_from:
 💻Internships
 -----------
 
-- 2026.01 - now, Intern in Ant Group, Shanghai, China.
+- 2026.01 - now, Intern in Computing System Lab, Ant Research, Shanghai, China.
 
 
 <br>

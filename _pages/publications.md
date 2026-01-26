@@ -7,12 +7,27 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-CN&user=635o82sAAAAJ">my Google Scholar profile</a>.</u>
 
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TACO 2026</b></code>
+<a href="https://www.lihaomin.com/" style="color: #224b8d; "><strong>
+  NICE: Deep Neural Network Acceleration via Hardware-Friendly Index Assisted Compression</strong>
+</a>
+<br>
+<span >Ning Yang, Fangxin Liu, Zongwu Wang, <strong>Haomin Li</strong>, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+Transactions on Architecture and Code Optimization</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Journal</b></code>
 
 
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TACO 2026</b></code>
-<a href="https://www.lihaomin.com/" style="color: #224b8d; "><strong>
+<a href="https://dl.acm.org/doi/abs/10.1145/3785473" style="color: #224b8d; "><strong>
   MIX-PC: Enabling Efficient DNN Inference with Mixed Numeric Precision Compilation Optimization</strong>
 </a>
 <br>
