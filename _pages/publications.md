@@ -10,7 +10,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TACO 2026</b></code>
-<a href="https://www.lihaomin.com/" style="color: #224b8d; "><strong>
+<a href="https://dl.acm.org/doi/10.1145/3795884" style="color: #224b8d; "><strong>
   NICE: Deep Neural Network Acceleration via Hardware-Friendly Index Assisted Compression</strong>
 </a>
 <br>
