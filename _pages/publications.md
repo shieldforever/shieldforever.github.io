@@ -16,7 +16,6 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 </a>
 <br>
 <span ><strong>Haomin Li</strong>, Fangxin Liu, Zongwu Wang, Shiyuan Huang, Ning Yang, Chenyang Guan, Tao Yang, Xinran Liang and Haibing Guan
-
 </span>
 <br>
 <span style=""><strong>
