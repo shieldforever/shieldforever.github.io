@@ -80,7 +80,7 @@ Transactions on Architecture and Code Optimization</strong>
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2026</b></code>
-<a href="https://www.lihaomin.com/" style="color: #224b8d; "><strong>
+<a href="https://ieeexplore.ieee.org/abstract/document/11408575" style="color: #224b8d; "><strong>
   ORANGE: Exploring Ockham’s Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads</strong>
 </a>
 <br>
