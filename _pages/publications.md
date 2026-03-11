@@ -42,6 +42,9 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
 
 
+<a href="https://github.com/shieldforever/GEMM-GS" style="color: #7a2f9d; font-size: 1.05em;"><strong>
+  Code for GEMM-GS</strong>
+</a>
 
 --------
 
