@@ -4,7 +4,7 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>HPCA 2026</strong></div><img src='images/orange-hpca26.png' alt="ORANGE" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a href="https://www.lihaomin.com/" style="color: #224b8d; "><strong>
+<a href="https://ieeexplore.ieee.org/abstract/document/11408575" style="color: #224b8d; "><strong>
   ORANGE: Exploring Ockham’s Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads</strong>
 </a>
 <br>
