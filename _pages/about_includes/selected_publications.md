@@ -1,4 +1,4 @@
-# 📝 Selected Publications 
+📝 Selected Publications 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"><strong>HPCA 2026</strong></div><img src='images/orange-hpca26.png' alt="ORANGE" width="100%"></div></div>
