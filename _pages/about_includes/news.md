@@ -1,6 +1,7 @@
 🔥 News
 -----------
 
+- 2026.03:  🎉🎉 Our project "Efficient implementation of 3D Gaussian Splatting on a Raspberry Pi 5 board" is [open-sourced](https://github.com/shieldforever/3DGS.RaspberryPi) on GitHub! Welcome to star us ^_^
 - 2026.02:  🎉🎉 Our papers "Brain-Like Hyper-Dimensional Graph Learning System with Hardware-Efficient Adaptive Sparsity" about neuromorphic graph learning acceleration and "GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending" about accelerating 3DGS with tensor cores have been accepted by DAC 2026!
 - 2025.11:  🎉🎉 Our paper "ORANGE: Exploring Ockham’s Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads" about 3DGS Acceleration on NPUs has been accepted by HPCA 2026!
 - 2025.11:  🎉🎉 Our paper "LaMoS: Enabling Efficient Large Number Modular Multiplication through SRAM-based CiM Acceleration" about CIM-based modular multiplication acceleration has been accepted by DATE 2026!

@@ -3,7 +3,7 @@
 
 <a href="https://github.com/shieldforever/3DGS.RaspberryPi" style="color: #7a2f9d; font-size: 1.05em;"><strong>
   3DGS.RaspberryPi</strong>
-</a> An efficient implementation of 3D Gaussian Splatting on a Raspberry Pi 5 board.
+</a> Efficient implementation of 3D Gaussian Splatting on a Raspberry Pi 5 board.
 
 <a href="https://github.com/shieldforever/GEMM-GS" style="color: #7a2f9d; font-size: 1.05em;"><strong>
   GEMM-GS</strong>
