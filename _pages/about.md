@@ -25,6 +25,7 @@ redirect_from:
 
 {% include_relative about_includes/selected_publications.md %}
 
+{% include_relative about_includes/Projects.md %}
 
 💻Internships
 -----------
