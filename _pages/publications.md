@@ -10,6 +10,22 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ISCA 2026</b></code>
+<a href="https://www.lihaomin.com" style="color: #224b8d; "><strong>STEP: Adaptive Spatio-Temporal Expert Prefetching for Low-Latency and Memory-Efficient MoE Inference</strong>
+</a>
+<br>
+<span >Fangxin Liu, Ning Yang, Zongwu Wang, Chenyang Guan, <strong>Haomin Li</strong>, Yu Feng, Liqiang Lu, Xiang Li, Siran Yang, Jiamang Wang, Lin Qu, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+2026 International Symposium on Computer Architecture</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+
+--------
+
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2026</b></code>
 <a href="https://www.lihaomin.com" style="color: #224b8d; "><strong>
   Brain-Like Hyper-Dimensional Graph Learning System with Hardware-Efficient Adaptive Sparsity</strong>
