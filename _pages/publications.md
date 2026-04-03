@@ -44,7 +44,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2026</b></code>
-<a href="https://www.lihaomin.com" style="color: #224b8d; "><strong>
+<a href="https://arxiv.org/abs/2604.02120" style="color: #224b8d; "><strong>
   GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending</strong>
 </a>
 <br>
