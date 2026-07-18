@@ -7,6 +7,36 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?hl=zh-CN&user=635o82sAAAAJ">my Google Scholar profile</a>.</u>
 
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>MICRO 2026</b></code>
+<a href="https://www.lihaomin.com" style="color: #224b8d; "><strong> ULTRA: Bridging the VQ Gap in Anisotropic LLM Quantization via a Unified LUT-Based Transformer Architecture </strong>
+</a>
+<br>
+<span >Zongwu Wang, Zhongyi Tang, Fangxin Liu, Shiyuan Huang, Chenyang Guan, <strong>Haomin Li</strong>, Gang Li, Liqiang Lu, Mingyu Gao, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+59th IEEE/ACM International Symposium on Microarchitecture</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>MICRO 2026</b></code>
+<a href="https://www.lihaomin.com" style="color: #224b8d; "><strong>
+  MOSAIC: Exploiting Structured Tolerance for Adaptive LLM Inference Mapping in Heterogeneous PIM Accelerators </strong>
+</a>
+<br>
+<span >Fangxin Liu=, Jingkui Yang=, Yilong Zhao, <strong>Haomin Li</strong>, Wen Mei, Xinran Liang, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+59th IEEE/ACM International Symposium on Microarchitecture</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
 
 --------
 
