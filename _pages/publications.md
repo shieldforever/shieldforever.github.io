@@ -9,6 +9,21 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TCAD 2026</b></code>
+<a href="https://www.lihaomin.com" style="color: #224b8d; "><strong> Look Once, Compute Less: A Spatio-Temporal Redundancy-Aware CIM Accelerator for Adaptive BEV Representation </strong>
+</a>
+<br>
+<span > <strong>Haomin Li</strong>, Fangxin Liu, Zongwu Wang, Ning Yang, Shiyuan Huang, Yilong Zhao, Chenyang Guan, Jian Liu, Xinran Liang, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+Transactions on Computer-Aided Design of Integrated Circuits and Systems</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Design Automation Top Journal</b></code>
+
+--------
+
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>MICRO 2026</b></code>
 <a href="https://www.lihaomin.com" style="color: #224b8d; "><strong> ULTRA: Bridging the VQ Gap in Anisotropic LLM Quantization via a Unified LUT-Based Transformer Architecture </strong>
 </a>
