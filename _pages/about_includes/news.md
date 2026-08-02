@@ -1,6 +1,8 @@
 🔥 News
 -----------
 
+- 2026.07:  🎉🎉 My presentation "Brain-Inspired Edge Intelligence" was selected as Top-Pick Presentation at the 2026 CCF TCArch Student Research Challenge!
+- 2026.07:  🎉🎉 My presentation "Efficient and Secure Edge Intelligence: Perception and Cognition with Hardware-Software Co-Design" was selected as Top-Pick Presentation at the Phd Forum of the 17th International Symposium on AdvancedParallel Processing Technology (APPT)!
 - 2026.07:  🎉🎉 Our paper "Look Once, Compute Less: A Spatio-Temporal Redundancy-Aware CIM Accelerator for Adaptive BEV Representation" has been accepted by TCAD through journal track of ESWEEK!
 - 2026.03:  🎉🎉 Our project "Efficient implementation of 3D Gaussian Splatting on a Raspberry Pi 5 board" is [open-sourced](https://github.com/shieldforever/3DGS.RaspberryPi) on GitHub! Welcome to star us ^_^
 - 2026.02:  🎉🎉 Our papers "Brain-Like Hyper-Dimensional Graph Learning System with Hardware-Efficient Adaptive Sparsity" about neuromorphic graph learning acceleration and "GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending" about accelerating 3DGS with tensor cores have been accepted by DAC 2026!
