@@ -9,6 +9,22 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>EMNLP 2026</b></code>
+<a href="https://www.lihaomin.com" style="color: #224b8d; "><strong> PCoMoE: Shifting MoE Inference from Monolithic Expert Selection to Fine-Grained Path Composition  </strong>
+</a>
+<br>
+<span > Ziyan Gan, Fangxin Liu, Chenyang Guan, Junjie Wang, Ning Yang, <strong>Haomin Li</strong>, Xiang Li, Siran Yang, Jiamang Wang, Lin Qu, Zongwu Wang, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+the annual Conference on Empirical Methods in Natural Language Processing</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-B</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>NLP Top Conference</b></code>
+
+
+--------
+
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TCAD 2026</b></code>
 <a href="https://www.lihaomin.com" style="color: #224b8d; "><strong> Look Once, Compute Less: A Spatio-Temporal Redundancy-Aware CIM Accelerator for Adaptive BEV Representation </strong>
 </a>
@@ -56,7 +72,7 @@ Transactions on Computer-Aided Design of Integrated Circuits and Systems</strong
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ISCA 2026</b></code>
-<a href="https://www.lihaomin.com" style="color: #224b8d; "><strong>STEP: Adaptive Spatio-Temporal Expert Prefetching for Low-Latency and Memory-Efficient MoE Inference</strong>
+<a href="https://ieeexplore.ieee.org/abstract/document/11617726/" style="color: #224b8d; "><strong>STEP: Adaptive Spatio-Temporal Expert Prefetching for Low-Latency and Memory-Efficient MoE Inference</strong>
 </a>
 <br>
 <span >Fangxin Liu, Ning Yang, Zongwu Wang, Chenyang Guan, <strong>Haomin Li</strong>, Yu Feng, Liqiang Lu, Xiang Li, Siran Yang, Jiamang Wang, Lin Qu, Li Jiang, and Haibing Guan
