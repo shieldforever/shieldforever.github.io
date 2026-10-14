@@ -1,7 +1,7 @@
 🔥 News
 -----------
 
-- 2026.10:  🏆 Won Second Prize in the 4th Chiplet Technology Open Source Competition!
+- 2026.10:  🏆 Won [Second Prize](https://mp.weixin.qq.com/s/-hMgMxlgD-uvTZQKNrATSw) in the 4th Chiplet Technology Open Source Competition!
 - 2026.09:  🏆 Received the National Scholarship~
 - 2026.07:  🏆 My presentation "Brain-Inspired Edge Intelligence" was selected as Top-Pick Presentation at the 2026 CCF TCArch Student Research Challenge!
 - 2026.07:  🏆 My presentation "Efficient and Secure Edge Intelligence: Perception and Cognition with Hardware-Software Co-Design" was selected as Top-Pick Presentation at the Phd Forum of the 17th International Symposium on AdvancedParallel Processing Technology (APPT)!
