@@ -9,8 +9,26 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TACO 2026</b></code>
+<a href="https://dl.acm.org/doi/10.1145/3857350" style="color: #224b8d; "><strong>
+  LOAD: Enabling Low-Bit Group Quantization for Vision Transformers via Adaptive Data Formats</strong>
+</a>
+<br>
+<span > Ning Yang, Chenyang Guan, Yuang Peng, Fangxin Liu, Junjie Wang, <strong>Haomin Li</strong>, Yongbiao Chen, Xinran Liang, Songwen Pei, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+Transactions on Architecture and Code Optimization</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Journal</b></code>
+
+
+
+--------
+
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>EMNLP 2026</b></code>
-<a href="https://www.lihaomin.com" style="color: #224b8d; "><strong> PCoMoE: Shifting MoE Inference from Monolithic Expert Selection to Fine-Grained Path Composition  </strong>
+<a href="https://arxiv.org/abs/2609.01024" style="color: #224b8d; "><strong> PCoMoE: Shifting MoE Inference from Monolithic Expert Selection to Fine-Grained Path Composition  </strong>
 </a>
 <br>
 <span > Ziyan Gan, Fangxin Liu, Chenyang Guan, Junjie Wang, Ning Yang, <strong>Haomin Li</strong>, Xiang Li, Siran Yang, Jiamang Wang, Lin Qu, Zongwu Wang, Li Jiang, and Haibing Guan
