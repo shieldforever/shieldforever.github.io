@@ -106,7 +106,7 @@ Transactions on Computer-Aided Design of Integrated Circuits and Systems</strong
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2026</b></code>
-<a href="https://www.lihaomin.com" style="color: #224b8d; "><strong>
+<a href="https://dl.acm.org/doi/10.1145/3770743.3803898" style="color: #224b8d; "><strong>
   Brain-Like Hyper-Dimensional Graph Learning System with Hardware-Efficient Adaptive Sparsity</strong>
 </a>
 <br>
@@ -123,7 +123,7 @@ Transactions on Computer-Aided Design of Integrated Circuits and Systems</strong
 --------
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2026</b></code>
-<a href="https://arxiv.org/abs/2604.02120" style="color: #224b8d; "><strong>
+<a href="https://dl.acm.org/doi/10.1145/3770743.3803899" style="color: #224b8d; "><strong>
   GEMM-GS: Accelerating 3D Gaussian Splatting on Tensor Cores with GEMM-Compatible Blending</strong>
 </a>
 <br>
@@ -136,6 +136,9 @@ Transactions on Computer-Aided Design of Integrated Circuits and Systems</strong
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
 
+<a href="https://arxiv.org/abs/2604.02120" style="color: #7a2f9d; font-size: 1.05em;"><strong>
+  Arxiv Link </strong>
+</a>
 
 <a href="https://github.com/shieldforever/GEMM-GS" style="color: #7a2f9d; font-size: 1.05em;"><strong>
   Code for GEMM-GS</strong>
