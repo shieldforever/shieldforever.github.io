@@ -9,9 +9,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-### (Co-)First-Authored Publications
-
---------
+## (Co-)First-Authored Publications
 
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2026</b></code>
@@ -357,9 +355,7 @@ Transactions on Computer-Aided Design of Integrated Circuits and Systems</strong
 
 --------
 
-### Collaborated Publications
-
---------
+## Collaborated Publications
 
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TACO 2026</b></code>
 <a href="https://dl.acm.org/doi/10.1145/3857350" style="color: #224b8d; "><strong>
