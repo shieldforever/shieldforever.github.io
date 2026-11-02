@@ -12,6 +12,106 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 ## (Co-)First-Authored Publications
 
 
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2027</b></code>
+<a href="https://ieeexplore.ieee.org/abstract/document/11408575" style="color: #224b8d; "><strong>
+  REACT: Exploring Ockham's Razor for Efficient and Accurate 3DGS Compression with GPU-Native Video and Texture Components</strong>
+</a>
+<br>
+<span ><strong>Haomin Li</strong>, Fangxin Liu, Bowen Zhu, Jingtao Chen, Zongwu Wang, Chenyang Guan, Zhuoran Song, Yu Feng, Liqiang Lu, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+33rd International Symposium on High-Performance Computer Architecture</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2026</b></code>
+<a href="https://ieeexplore.ieee.org/abstract/document/11408575" style="color: #224b8d; "><strong>
+  ORANGE: Exploring Ockham’s Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads</strong>
+</a>
+<br>
+<span >
+  <strong>Haomin Li</strong>, Yue Liang, Fangxin Liu, Bowen Zhu, Zongwu Wang, Yu Feng, Liqiang Lu, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+32nd International Symposium on High-Performance Computer Architecture</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASPLOS 2025</b></code>
+<a href="https://dl.acm.org/doi/10.1145/3676642.3736117" style="color: #224b8d; "><strong>
+  ASDR: Exploiting <u>A</u>daptive <u>S</u>ampling and <u>D</u>ata <u>R</u>euse for CIM-based Instant Neural Rendering</strong>
+</a>
+<br>
+<span >Fangxin Liu=, <strong>Haomin Li=</strong>, Bowen Zhu, Zongwu Wang, Zhuoran Song, and Li Jiang
+</span>
+<br>
+<span style=""><strong>
+30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+<a href="https://arxiv.org/abs/2508.02304" style="color: #7a2f9d; font-size: 1.05em;"><strong>
+  Arxiv Link </strong>
+</a>
+
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ISCA 2025</b></code>
+<a href="https://dl.acm.org/doi/10.1145/3695053.3731031" style="color: #224b8d; "><strong>
+  FATE: Boosting the Performance of Hyper-Dimensional Computing Intelligence with <u>F</u>lexible Numerical <u>DA</u>ta Typ<u>E</u></strong>
+</a>
+<br>
+<span ><strong>Haomin Li=</strong>, Fangxin Liu=, Yichi Chen, Zongwu Wang, Shiyuan Huang, Ning Yang, Dongxu Lyu, and Li Jiang
+</span>
+<br>
+<span style=""><strong>
+2025 International Symposium on Computer Architecture</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TCAD 2026</b></code>
+<a href="https://www.lihaomin.com" style="color: #224b8d; "><strong> Look Once, Compute Less: A Spatio-Temporal Redundancy-Aware CIM Accelerator for Adaptive BEV Representation </strong>
+</a>
+<br>
+<span > <strong>Haomin Li</strong>, Fangxin Liu, Zongwu Wang, Ning Yang, Shiyuan Huang, Yilong Zhao, Chenyang Guan, Jian Liu, Xinran Liang, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+Transactions on Computer-Aided Design of Integrated Circuits and Systems</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Design Automation Top Journal</b></code>
+
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TACO 2025</b></code>
+<a href="https://dl.acm.org/doi/10.1145/3736172" style="color: #224b8d; "><strong>
+  Attack and Defense: Enhancing Robustness of Binary Hyper-Dimensional Computing</strong>
+</a>
+<br>
+<span ><strong>Haomin Li</strong>, Fangxin Liu, Zongwu Wang, Ning Yang, Shiyuan Huang, Xiaoyao Liang, and Li Jiang
+</span>
+<br>
+<span style=""><strong>
+Transactions on Architecture and Code Optimization</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Journal</b></code>
+
+--------
+
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2026</b></code>
 <a href="https://dl.acm.org/doi/10.1145/3770743.3803898" style="color: #224b8d; "><strong>
   Brain-Like Hyper-Dimensional Graph Learning System with Hardware-Efficient Adaptive Sparsity</strong>
@@ -53,42 +153,57 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2026</b></code>
-<a href="https://ieeexplore.ieee.org/abstract/document/11408575" style="color: #224b8d; "><strong>
-  ORANGE: Exploring Ockham’s Razor for Neural Rendering by Accelerating 3DGS on NPUs with GEMM-Friendly Blending and Balanced Workloads</strong>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2025</b></code>
+<a href="https://ieeexplore.ieee.org/document/11132815" style="color: #224b8d; "><strong>
+  ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</strong>
 </a>
 <br>
-<span >
-  <strong>Haomin Li</strong>, Yue Liang, Fangxin Liu, Bowen Zhu, Zongwu Wang, Yu Feng, Liqiang Lu, Li Jiang, and Haibing Guan
+<span >Fangxin Liu=, <strong>Haomin Li=</strong>, Zongwu Wang, Bo Zhang, Mingzhe Zhang, Shoumeng Yan, and Li Jiang
 </span>
 <br>
 <span style=""><strong>
-32nd International Symposium on High-Performance Computer Architecture</strong>
+62nd Design Automation Conference </strong>
 </span>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
+
+<a href="https://arxiv.org/abs/2503.15916" style="color: #7a2f9d; font-size: 1.05em;"><strong>
+  Arxiv Link </strong>
+</a>
 
 --------
 
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DATE 2026</b></code>
-<!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
-<!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
-<a href="https://arxiv.org/abs/2511.03341" style="color: #224b8d; "><strong>
-  LaMoS: Enabling Efficient Large Number Modular Multiplication through SRAM-based CiM Acceleration</strong>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2023</b></code>
+<a href="https://ieeexplore.ieee.org/abstract/document/10247811" style="color: #224b8d; "><strong>
+  HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</strong>
 </a>
 <br>
-<span ><strong>Haomin Li</strong>, Fangxin Liu, Chenyang Guan, Zongwu Wang, Li Jiang, and Haibing Guan
+<span >Fangxin Liu=, <strong>Haomin Li=</strong>, Yongbiao Chen, Tao Yang, and Li Jiang
 </span>
 <br>
 <span style=""><strong>
-2026 Design, Automation and Test in Europe Conference</strong>
+60th Design Automation Conference </strong>
 </span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-B</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
 
-<a href="https://arxiv.org/abs/2511.03341" style="color: #7a2f9d; font-size: 1.05em;"><strong>
-  Arxiv Link </strong>
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>SIGIR 2022</b></code>
+<a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531761" style="color: #224b8d; "><strong>
+  L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks</strong>
 </a>
+<br>
+<span >Fangxin Liu, <strong>Haomin Li</strong>, Xiaokang Yang, and Li Jiang
+</span>
+<br>
+<span style=""><strong>
+45th International ACM SIGIR Conference on Research and Development in Information Retrieval </strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>IR Top Conf.</b></code>
+
+[code](https://github.com/MXHX7199/SIGIR22-EnsembleHDC)
 
 --------
 
@@ -112,73 +227,39 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 --------
 
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASPLOS 2025</b></code>
-<a href="https://dl.acm.org/doi/10.1145/3676642.3736117" style="color: #224b8d; "><strong>
-  ASDR: Exploiting <u>A</u>daptive <u>S</u>ampling and <u>D</u>ata <u>R</u>euse for CIM-based Instant Neural Rendering</strong>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ICCAD 2023</b></code>
+<a href="https://ieeexplore.ieee.org/abstract/document/10323813" style="color: #224b8d; "><strong>
+  HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing</strong>
 </a>
 <br>
-<span >Fangxin Liu=, <strong>Haomin Li=</strong>, Bowen Zhu, Zongwu Wang, Zhuoran Song, and Li Jiang
+<span ><strong>Haomin Li=</strong>, Fangxin Liu=, Yichi Chen, and Li Jiang
 </span>
 <br>
 <span style=""><strong>
-30th ACM International Conference on Architectural Support for Programming Languages and Operating Systems</strong>
+42th IEEE/ACM International Conference on Computer-Aided Design</strong>
 </span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
-
-<a href="https://arxiv.org/abs/2508.02304" style="color: #7a2f9d; font-size: 1.05em;"><strong>
-  Arxiv Link </strong>
-</a>
-
---------
-
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TACO 2025</b></code>
-<a href="https://dl.acm.org/doi/10.1145/3736172" style="color: #224b8d; "><strong>
-  Attack and Defense: Enhancing Robustness of Binary Hyper-Dimensional Computing</strong>
-</a>
-<br>
-<span ><strong>Haomin Li</strong>, Fangxin Liu, Zongwu Wang, Ning Yang, Shiyuan Huang, Xiaoyao Liang, and Li Jiang
-</span>
-<br>
-<span style=""><strong>
-Transactions on Architecture and Code Optimization</strong>
-</span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Journal</b></code>
-
---------
-
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ISCA 2025</b></code>
-<a href="https://dl.acm.org/doi/10.1145/3695053.3731031" style="color: #224b8d; "><strong>
-  FATE: Boosting the Performance of Hyper-Dimensional Computing Intelligence with <u>F</u>lexible Numerical <u>DA</u>ta Typ<u>E</u></strong>
-</a>
-<br>
-<span ><strong>Haomin Li=</strong>, Fangxin Liu=, Yichi Chen, Zongwu Wang, Shiyuan Huang, Ning Yang, Dongxu Lyu, and Li Jiang
-</span>
-<br>
-<span style=""><strong>
-2025 International Symposium on Computer Architecture</strong>
-</span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
-
---------
-
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2025</b></code>
-<a href="https://ieeexplore.ieee.org/document/11132815" style="color: #224b8d; "><strong>
-  ALLMod: Exploring Area-Efficiency of LUT-based Large Number Modular Reduction via Hybrid Workloads</strong>
-</a>
-<br>
-<span >Fangxin Liu=, <strong>Haomin Li=</strong>, Zongwu Wang, Bo Zhang, Mingzhe Zhang, Shoumeng Yan, and Li Jiang
-</span>
-<br>
-<span style=""><strong>
-62nd Design Automation Conference </strong>
-</span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-B</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
 
-<a href="https://arxiv.org/abs/2503.15916" style="color: #7a2f9d; font-size: 1.05em;"><strong>
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DATE 2026</b></code>
+<!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
+<!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
+<a href="https://arxiv.org/abs/2511.03341" style="color: #224b8d; "><strong>
+  LaMoS: Enabling Efficient Large Number Modular Multiplication through SRAM-based CiM Acceleration</strong>
+</a>
+<br>
+<span ><strong>Haomin Li</strong>, Fangxin Liu, Chenyang Guan, Zongwu Wang, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+2026 Design, Automation and Test in Europe Conference</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-B</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
+
+<a href="https://arxiv.org/abs/2511.03341" style="color: #7a2f9d; font-size: 1.05em;"><strong>
   Arxiv Link </strong>
 </a>
 
@@ -220,87 +301,6 @@ Transactions on Architecture and Code Optimization</strong>
 
 --------
 
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
-<a href="https://ieeexplore.ieee.org/abstract/document/10473907" style="color: #224b8d; "><strong>
-  HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing</strong>
-</a>
-<br>
-<span ><strong>Haomin Li=</strong>, Fangxin Liu=, Yichi Chen, and Li Jiang
-</span>
-<br>
-<span style=""><strong>
-29th Asia and South Pacific Design Automation Conference</strong>
-</span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
-
---------
-
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ICCAD 2023</b></code>
-<a href="https://ieeexplore.ieee.org/abstract/document/10323813" style="color: #224b8d; "><strong>
-  HyperNode: An Efficient Node Classification Framework Using HyperDimensional Computing</strong>
-</a>
-<br>
-<span ><strong>Haomin Li=</strong>, Fangxin Liu=, Yichi Chen, and Li Jiang
-</span>
-<br>
-<span style=""><strong>
-42th IEEE/ACM International Conference on Computer-Aided Design</strong>
-</span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-B</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
-
---------
-
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>DAC 2023</b></code>
-<a href="https://ieeexplore.ieee.org/abstract/document/10247811" style="color: #224b8d; "><strong>
-  HyperAttack: An Efficient Attack Framework for HyperDimensional Computing</strong>
-</a>
-<br>
-<span >Fangxin Liu=, <strong>Haomin Li=</strong>, Yongbiao Chen, Tao Yang, and Li Jiang
-</span>
-<br>
-<span style=""><strong>
-60th Design Automation Conference </strong>
-</span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
-
---------
-
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>SIGIR 2022</b></code>
-<a href="https://dl.acm.org/doi/abs/10.1145/3477495.3531761" style="color: #224b8d; "><strong>
-  L3E-HD: A Framework Enabling Efficient Ensemble in High-Dimensional Space for Language Tasks</strong>
-</a>
-<br>
-<span >Fangxin Liu, <strong>Haomin Li</strong>, Xiaokang Yang, and Li Jiang
-</span>
-<br>
-<span style=""><strong>
-45th International ACM SIGIR Conference on Research and Development in Information Retrieval </strong>
-</span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>IR Top Conf.</b></code>
-
-[code](https://github.com/MXHX7199/SIGIR22-EnsembleHDC)
-
---------
-
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TCAD 2026</b></code>
-<a href="https://www.lihaomin.com" style="color: #224b8d; "><strong> Look Once, Compute Less: A Spatio-Temporal Redundancy-Aware CIM Accelerator for Adaptive BEV Representation </strong>
-</a>
-<br>
-<span > <strong>Haomin Li</strong>, Fangxin Liu, Zongwu Wang, Ning Yang, Shiyuan Huang, Yilong Zhao, Chenyang Guan, Jian Liu, Xinran Liang, Li Jiang, and Haibing Guan
-</span>
-<br>
-<span style=""><strong>
-Transactions on Computer-Aided Design of Integrated Circuits and Systems</strong>
-</span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Design Automation Top Journal</b></code>
-
---------
-
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASP-DAC 2025</b></code>
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, EDA Top Conf.</b></code> -->
 <!-- <code style="color: #376ac3; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C, `EDA Top Conf`.</b></code> -->
@@ -320,6 +320,22 @@ Transactions on Computer-Aided Design of Integrated Circuits and Systems</strong
 <a href="https://github.com/shieldforever/NeuronQuant" style="color: #7a2f9d; font-size: 1.05em;"><strong>
   Code for NeuronQuant</strong>
 </a>
+
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ASP-DAC 2024</b></code>
+<a href="https://ieeexplore.ieee.org/abstract/document/10473907" style="color: #224b8d; "><strong>
+  HyperFeel: An Efficient Federated Learning Framework Using Hyperdimensional Computing</strong>
+</a>
+<br>
+<span ><strong>Haomin Li=</strong>, Fangxin Liu=, Yichi Chen, and Li Jiang
+</span>
+<br>
+<span style=""><strong>
+29th Asia and South Pacific Design Automation Conference</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
 
 --------
 
@@ -357,34 +373,50 @@ Transactions on Computer-Aided Design of Integrated Circuits and Systems</strong
 
 ## Collaborated Publications
 
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TACO 2026</b></code>
-<a href="https://dl.acm.org/doi/10.1145/3857350" style="color: #224b8d; "><strong>
-  LOAD: Enabling Low-Bit Group Quantization for Vision Transformers via Adaptive Data Formats</strong>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2025</b></code>
+<a href="https://ieeexplore.ieee.org/document/10946829" style="color: #224b8d; "><strong>
+  CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels</strong>
 </a>
 <br>
-<span > Ning Yang, Chenyang Guan, Yuang Peng, Fangxin Liu, Junjie Wang, <strong>Haomin Li</strong>, Yongbiao Chen, Xinran Liang, Songwen Pei, Li Jiang, and Haibing Guan
+<span >Fangxin Liu, Shiyuan Huang, Ning Yang, Zongwu Wang, <strong>Haomin Li</strong>, and Li Jiang
 </span>
 <br>
 <span style=""><strong>
-Transactions on Architecture and Code Optimization</strong>
+31th International Symposium on High-Performance Computer Architecture</strong>
 </span>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Journal</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
 
 --------
 
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>EMNLP 2026</b></code>
-<a href="https://arxiv.org/abs/2609.01024" style="color: #224b8d; "><strong> PCoMoE: Shifting MoE Inference from Monolithic Expert Selection to Fine-Grained Path Composition  </strong>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2024</b></code>
+<a href="https://ieeexplore.ieee.org/abstract/document/10476472" style="color: #224b8d; "><strong>
+  SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding</strong>
 </a>
 <br>
-<span > Ziyan Gan, Fangxin Liu, Chenyang Guan, Junjie Wang, Ning Yang, <strong>Haomin Li</strong>, Xiang Li, Siran Yang, Jiamang Wang, Lin Qu, Zongwu Wang, Li Jiang, and Haibing Guan
+<span >Fangxin Liu, Ning Yang, <strong>Haomin Li</strong>, Zongwu Wang, Zhuoran Song, Songwen Pei, and Li Jiang
 </span>
 <br>
 <span style=""><strong>
-the annual Conference on Empirical Methods in Natural Language Processing</strong>
+30th International Symposium on High-Performance Computer Architecture</strong>
 </span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-B</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>NLP Top Conference</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ISCA 2026</b></code>
+<a href="https://ieeexplore.ieee.org/abstract/document/11617726/" style="color: #224b8d; "><strong>STEP: Adaptive Spatio-Temporal Expert Prefetching for Low-Latency and Memory-Efficient MoE Inference</strong>
+</a>
+<br>
+<span >Fangxin Liu, Ning Yang, Zongwu Wang, Chenyang Guan, <strong>Haomin Li</strong>, Yu Feng, Liqiang Lu, Xiang Li, Siran Yang, Jiamang Wang, Lin Qu, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+2026 International Symposium on Computer Architecture</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
 
 --------
 
@@ -419,18 +451,35 @@ the annual Conference on Empirical Methods in Natural Language Processing</stron
 
 --------
 
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>ISCA 2026</b></code>
-<a href="https://ieeexplore.ieee.org/abstract/document/11617726/" style="color: #224b8d; "><strong>STEP: Adaptive Spatio-Temporal Expert Prefetching for Low-Latency and Memory-Efficient MoE Inference</strong>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>MICRO 2024</b></code>
+<a href="https://ieeexplore.ieee.org/document/10764497" style="color: #224b8d; "><strong>
+  COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with Adaptive Spike Speculation</strong>
 </a>
 <br>
-<span >Fangxin Liu, Ning Yang, Zongwu Wang, Chenyang Guan, <strong>Haomin Li</strong>, Yu Feng, Liqiang Lu, Xiang Li, Siran Yang, Jiamang Wang, Lin Qu, Li Jiang, and Haibing Guan
+<span >Zongwu Wang, Fangxin Liu, Ning Yang, Shiyuan Huang, <strong>Haomin Li</strong>, and Li Jiang
 </span>
 <br>
 <span style=""><strong>
-2026 International Symposium on Computer Architecture</strong>
+57th IEEE/ACM International Symposium on Microarchitecture</strong>
 </span>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TACO 2026</b></code>
+<a href="https://dl.acm.org/doi/10.1145/3857350" style="color: #224b8d; "><strong>
+  LOAD: Enabling Low-Bit Group Quantization for Vision Transformers via Adaptive Data Formats</strong>
+</a>
+<br>
+<span > Ning Yang, Chenyang Guan, Yuang Peng, Fangxin Liu, Junjie Wang, <strong>Haomin Li</strong>, Yongbiao Chen, Xinran Liang, Songwen Pei, Li Jiang, and Haibing Guan
+</span>
+<br>
+<span style=""><strong>
+Transactions on Architecture and Code Optimization</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Journal</b></code>
 
 --------
 
@@ -463,71 +512,6 @@ Transactions on Architecture and Code Optimization</strong>
 </span>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Journal</b></code>
-
---------
-
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>APPT 2025</b></code>
-<a href="https://link.springer.com/chapter/10.1007/978-981-95-1021-4_8" style="color: #224b8d; "><strong>
-  Irregular Sparsity-Enabled Search-in-Memory Engine for Accelerating Spiking Neural Networks</strong>
-</a>
-<br>
-<span> Fangxin Liu, Zongwu Wang, Ning Yang, <strong>Haomin Li</strong>, Tao Yang, Haibing Guan, and Li Jiang 
-</span>
-<br>
-<span style=""><strong>
-International Symposium on Advanced Parallel Processing Technologies</strong>
-</span>
-<!-- <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Journal</b></code> -->
-
---------
-
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2025</b></code>
-<a href="https://ieeexplore.ieee.org/document/10946829" style="color: #224b8d; "><strong>
-  CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels</strong>
-</a>
-<br>
-<span >Fangxin Liu, Shiyuan Huang, Ning Yang, Zongwu Wang, <strong>Haomin Li</strong>, and Li Jiang
-</span>
-<br>
-<span style=""><strong>
-31th International Symposium on High-Performance Computer Architecture</strong>
-</span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
-
---------
-
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TODAES 2024</b></code>
-<a href="https://dl.acm.org/doi/abs/10.1145/3701033" style="color: #224b8d; "><strong>
-  STCO: Enhancing Training Efficiency via Structured Sparse
-Tensor Compilation Optimization</strong>
-</a>
-<br>
-<span >Shiyuan Huang, Fangxin Liu, Tian Li, Zongwu Wang, Ning Yang, <strong>Haomin Li</strong>, and Li Jiang
-</span>
-<br>
-<span style=""><strong>
-ACM Transactions on Design Automation of Electronic Systems</strong>
-</span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-B</b></code>
-<!-- <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code> -->
-
---------
-
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>MICRO 2024</b></code>
-<a href="https://ieeexplore.ieee.org/document/10764497" style="color: #224b8d; "><strong>
-  COMPASS: SRAM-Based Computing-in-Memory SNN Accelerator with Adaptive Spike Speculation</strong>
-</a>
-<br>
-<span >Zongwu Wang, Fangxin Liu, Ning Yang, Shiyuan Huang, <strong>Haomin Li</strong>, and Li Jiang
-</span>
-<br>
-<span style=""><strong>
-57th IEEE/ACM International Symposium on Microarchitecture</strong>
-</span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
 
 --------
 
@@ -595,19 +579,35 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 
 --------
 
-<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2024</b></code>
-<a href="https://ieeexplore.ieee.org/abstract/document/10476472" style="color: #224b8d; "><strong>
-  SPARK: Scalable and Precision-Aware Acceleration of Neural Networks via Efficient Encoding</strong>
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>EMNLP 2026</b></code>
+<a href="https://arxiv.org/abs/2609.01024" style="color: #224b8d; "><strong> PCoMoE: Shifting MoE Inference from Monolithic Expert Selection to Fine-Grained Path Composition  </strong>
 </a>
 <br>
-<span >Fangxin Liu, Ning Yang, <strong>Haomin Li</strong>, Zongwu Wang, Zhuoran Song, Songwen Pei, and Li Jiang
+<span > Ziyan Gan, Fangxin Liu, Chenyang Guan, Junjie Wang, Ning Yang, <strong>Haomin Li</strong>, Xiang Li, Siran Yang, Jiamang Wang, Lin Qu, Zongwu Wang, Li Jiang, and Haibing Guan
 </span>
 <br>
 <span style=""><strong>
-30th International Symposium on High-Performance Computer Architecture</strong>
+the annual Conference on Empirical Methods in Natural Language Processing</strong>
 </span>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
-<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-B</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>NLP Top Conference</b></code>
+
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>TODAES 2024</b></code>
+<a href="https://dl.acm.org/doi/abs/10.1145/3701033" style="color: #224b8d; "><strong>
+  STCO: Enhancing Training Efficiency via Structured Sparse
+Tensor Compilation Optimization</strong>
+</a>
+<br>
+<span >Shiyuan Huang, Fangxin Liu, Tian Li, Zongwu Wang, Ning Yang, <strong>Haomin Li</strong>, and Li Jiang
+</span>
+<br>
+<span style=""><strong>
+ACM Transactions on Design Automation of Electronic Systems</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-B</b></code>
+<!-- <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code> -->
 
 --------
 
@@ -624,6 +624,22 @@ IEEE Transactions on Parallel and Distributed Systems</strong>
 </span>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-C</b></code>
 <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>EDA Top Conf.</b></code>
+
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>APPT 2025</b></code>
+<a href="https://link.springer.com/chapter/10.1007/978-981-95-1021-4_8" style="color: #224b8d; "><strong>
+  Irregular Sparsity-Enabled Search-in-Memory Engine for Accelerating Spiking Neural Networks</strong>
+</a>
+<br>
+<span> Fangxin Liu, Zongwu Wang, Ning Yang, <strong>Haomin Li</strong>, Tao Yang, Haibing Guan, and Li Jiang 
+</span>
+<br>
+<span style=""><strong>
+International Symposium on Advanced Parallel Processing Technologies</strong>
+</span>
+<!-- <code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Journal</b></code> -->
 
 --------
 
