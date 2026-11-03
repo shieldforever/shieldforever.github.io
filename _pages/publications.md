@@ -373,6 +373,38 @@ Transactions on Architecture and Code Optimization</strong>
 
 ## Collaborated Publications
 
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2027</b></code>
+<span style="color: #224b8d; "><strong>
+  A Compression-Native and Redundancy-Aware Architecture for MLLM Inference</strong>
+</span>
+<br>
+<span >Jun Liu, Xinhao Li, Li Ding, Hanbin Zhang, Kele Shao, <strong>Haomin Li</strong>, Huan Wang, Yu Wang, and Guohao Dai
+</span>
+<br>
+<span style=""><strong>
+33rd International Symposium on High-Performance Computer Architecture</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+--------
+
+<code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2027</b></code>
+<span style="color: #224b8d; "><strong>
+  DPI-TC: A Software-Hardware Co-Design for High-Throughput DPI on Customized Tensor Cores</strong>
+</span>
+<br>
+<span >Shiyuan Huang, Fangxin Liu, Zongwu Wang, <strong>Haomin Li</strong>, and Li Jiang
+</span>
+<br>
+<span style=""><strong>
+33rd International Symposium on High-Performance Computer Architecture</strong>
+</span>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>CCF-A</b></code>
+<code style="color: black; background-color: #fafafa; font-size: 0.9em;"><b>Computer Architecture Top Conf.</b></code>
+
+--------
+
 <code style="color: #ffffff; background-color: #bd666d; font-size: 1.03em;"><b>HPCA 2025</b></code>
 <a href="https://ieeexplore.ieee.org/document/10946829" style="color: #224b8d; "><strong>
   CROSS: Compiler-Driven Optimization of Sparse DNNs Using Sparse/Dense Computation Kernels</strong>
