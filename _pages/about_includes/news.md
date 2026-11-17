@@ -1,6 +1,7 @@
 🔥 News
 -----------
 
+- 2026.11:  🏆 Won Best Research Award of the Student Research Forum (SRF) at the 44th IEEE International Conference on Computer Design (ICCD 2026)!
 - 2026.11:  🎉 Our paper "REACT: Exploring Ockham's Razor for Efficient and Accurate 3DGS Compression with GPU-Native Video and Texture Components" about memory-efficient 3DGS inference on GPUs has been accepted by HPCA 2027!
 - 2026.10:  🏆 Won Second Prize in the Artificial Intelligence category of the 2026 China Youth Science and Technology Innovation “Jiebang Guashuai” Challenge!
 - 2026.10:  🏆 Won [Second Prize](https://mp.weixin.qq.com/s/-hMgMxlgD-uvTZQKNrATSw) in the 4th Chiplet Technology Open Source Competition!
